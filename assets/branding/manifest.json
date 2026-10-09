@@ -1,0 +1,37 @@
+{
+  "direction": "03 / CUT",
+  "selected_by": "Hunter",
+  "date": "2026-10-09",
+  "assets": [
+    {
+      "file": "ug-metrics-cut-lavender.png",
+      "label": "Lavender logo",
+      "size": [
+        1254,
+        1254
+      ],
+      "format": "RGBA PNG",
+      "origin": "Built-in image generation from original Cut concept; no cover art incorporated."
+    },
+    {
+      "file": "ug-metrics-cut-cream.png",
+      "label": "Cream logo",
+      "size": [
+        1254,
+        1254
+      ],
+      "format": "RGBA PNG",
+      "origin": "Built-in image generation from original Cut concept; no cover art incorporated."
+    },
+    {
+      "file": "ug-metrics-cut-avatar.png",
+      "label": "Profile avatar",
+      "size": [
+        1254,
+        1254
+      ],
+      "format": "RGBA PNG",
+      "origin": "Built-in image generation from original Cut concept; no cover art incorporated."
+    }
+  ]
+}
