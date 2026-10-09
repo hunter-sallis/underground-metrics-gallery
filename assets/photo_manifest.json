@@ -1,12 +1,14 @@
 {
   "Che": {
-    "file": "",
+    "file": "assets/photos/che.jpg",
     "source_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF",
     "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab6761610000e5eb856122aa629701a14755ab65",
-    "license": "Typographic public cover",
-    "creator": "Portrait pending",
-    "reuse_status": "Source photo excluded from public preview; permission unresolved",
-    "changes": "No third-party portrait displayed in public cover."
+    "license": null,
+    "creator": null,
+    "reuse_status": "permission not established \u2014 local review only",
+    "changes": "Cropped, desaturated and darkened. Artist identity tied to saved Spotify profile; photographer not identified.",
+    "preview_display_requested": true,
+    "preview_note": "User requested portrait restoration in the public gallery preview; reuse permission remains unresolved."
   },
   "xaviersobased": {
     "file": "assets/photos/Xaviersobased_2-2-23.jpg",
@@ -18,31 +20,39 @@
     "changes": "Cropped, desaturated and darkened for the cover; CC BY-SA adaptation follows the same license where applicable."
   },
   "Nettspend": {
-    "file": "",
+    "file": "assets/photos/Nettspend.webp",
     "source_url": "https://commons.wikimedia.org/wiki/File%3ANettspend.webp",
-    "license": "Typographic public cover",
+    "license": null,
     "license_url": "https://creativecommons.org/licenses/by/4.0",
-    "creator": "Portrait pending",
-    "reuse_status": "Source photo excluded from public preview; permission unresolved",
-    "changes": "No third-party portrait displayed in public cover."
+    "creator": "@justusedd on Instagram",
+    "reuse_status": "permission unresolved \u2014 earlier asset ledger flags uploader/rights-holder provenance",
+    "changes": "Cropped, desaturated and darkened for the cover; CC BY-SA adaptation follows the same license where applicable.",
+    "preview_display_requested": true,
+    "claimed_license": "CC BY 4.0",
+    "preview_note": "User requested portrait restoration in the public gallery preview; reuse permission remains unresolved."
   },
   "Lucy Bedroque": {
-    "file": "",
+    "file": "assets/photos/lucy-bedroque.jpg",
     "source_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O",
     "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
-    "license": "Typographic public cover",
-    "creator": "Portrait pending",
-    "reuse_status": "Source photo excluded from public preview; permission unresolved",
-    "changes": "No third-party portrait displayed in public cover."
+    "license": null,
+    "creator": null,
+    "reuse_status": "permission not established \u2014 local review only",
+    "changes": "Cropped, desaturated and darkened. Artist identity tied to saved Spotify profile; photographer not identified.",
+    "preview_display_requested": true,
+    "preview_note": "User requested portrait restoration in the public gallery preview; reuse permission remains unresolved."
   },
   "slayr": {
-    "file": "",
+    "file": "assets/photos/Slayr_rollingloud_tristanstlws.jpg",
     "source_url": "https://commons.wikimedia.org/wiki/File%3ASlayr_rollingloud_tristanstlws.jpg",
-    "license": "Typographic public cover",
+    "license": null,
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "creator": "Portrait pending",
-    "reuse_status": "Source photo excluded from public preview; permission unresolved",
-    "changes": "No third-party portrait displayed in public cover."
+    "creator": "Tristanstlws",
+    "reuse_status": "permission unresolved \u2014 earlier asset ledger flags uploader/rights-holder provenance",
+    "changes": "Cropped, desaturated and darkened for the cover; CC BY-SA adaptation follows the same license where applicable.",
+    "preview_display_requested": true,
+    "claimed_license": "CC BY-SA 4.0",
+    "preview_note": "User requested portrait restoration in the public gallery preview; reuse permission remains unresolved."
   },
   "prettifun": {
     "file": "assets/photos/Prettifun.png",

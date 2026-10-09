@@ -317,13 +317,15 @@
       ],
       "caption": "Che: MANNEQUIN. Saved Spotify metadata lists Che and xaviersobased on this recording. That establishes a collaboration, not its financial split. Spotify plays, read Oct 9, 2026: MANNEQUIN 22,049,477. Publishing ownership, master ownership and private deal terms are not established. Collection registrations are not ownership or income. Whose part do you replay?",
       "cover_photo": {
-        "file": "",
+        "file": "assets/photos/che.jpg",
         "source_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF",
         "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab6761610000e5eb856122aa629701a14755ab65",
-        "license": "Typographic public cover",
-        "creator": "Portrait pending",
-        "reuse_status": "Source photo excluded from public preview; permission unresolved",
-        "changes": "No third-party portrait displayed in public cover."
+        "license": null,
+        "creator": null,
+        "reuse_status": "permission not established — local review only",
+        "changes": "Cropped, desaturated and darkened. Artist identity tied to saved Spotify profile; photographer not identified.",
+        "preview_display_requested": true,
+        "preview_note": "User requested portrait restoration in the public gallery preview; reuse permission remains unresolved."
       },
       "audience_geography": {
         "source": "Chartmetric",
@@ -880,13 +882,16 @@
       ],
       "caption": "Nettspend: KickAss (Pull Up Pls), Impact. Both recordings credit two main artists. Billing does not reveal a fee or royalty share. Spotify plays, read Oct 9, 2026: KickAss (Pull Up Pls) 1,989,547; Impact 17,548,303. Publishing ownership, master ownership and private deal terms are not established. Collection registrations are not ownership or income. Which collab hits harder?",
       "cover_photo": {
-        "file": "",
+        "file": "assets/photos/Nettspend.webp",
         "source_url": "https://commons.wikimedia.org/wiki/File%3ANettspend.webp",
-        "license": "Typographic public cover",
+        "license": null,
         "license_url": "https://creativecommons.org/licenses/by/4.0",
-        "creator": "Portrait pending",
-        "reuse_status": "Source photo excluded from public preview; permission unresolved",
-        "changes": "No third-party portrait displayed in public cover."
+        "creator": "@justusedd on Instagram",
+        "reuse_status": "permission unresolved — earlier asset ledger flags uploader/rights-holder provenance",
+        "changes": "Cropped, desaturated and darkened for the cover; CC BY-SA adaptation follows the same license where applicable.",
+        "preview_display_requested": true,
+        "claimed_license": "CC BY 4.0",
+        "preview_note": "User requested portrait restoration in the public gallery preview; reuse permission remains unresolved."
       },
       "audience_geography": {
         "source": "Chartmetric",
@@ -1118,13 +1123,15 @@
       ],
       "caption": "Lucy Bedroque: Daytona. Spotify metadata confirms both recording artists. A Rainy Day Music review names Daytona among its best tracks; that is one critic’s assessment. Spotify plays, read Oct 9, 2026: Daytona 6,451,009. Publishing ownership, master ownership and private deal terms are not established. Collection registrations are not ownership or income. Who brought you to daytona?",
       "cover_photo": {
-        "file": "",
+        "file": "assets/photos/lucy-bedroque.jpg",
         "source_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O",
         "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
-        "license": "Typographic public cover",
-        "creator": "Portrait pending",
-        "reuse_status": "Source photo excluded from public preview; permission unresolved",
-        "changes": "No third-party portrait displayed in public cover."
+        "license": null,
+        "creator": null,
+        "reuse_status": "permission not established — local review only",
+        "changes": "Cropped, desaturated and darkened. Artist identity tied to saved Spotify profile; photographer not identified.",
+        "preview_display_requested": true,
+        "preview_note": "User requested portrait restoration in the public gallery preview; reuse permission remains unresolved."
       },
       "audience_geography": {
         "source": "Chartmetric",
@@ -1355,13 +1362,16 @@
       ],
       "caption": "slayr: Daytona. Daytona credits four writers and three producers. Those credits do not disclose ownership splits or payment terms. Spotify plays, read Oct 9, 2026: Daytona 6,451,009. Publishing ownership, master ownership and private deal terms are not established. Collection registrations are not ownership or income. Daytona or your other slayr pick?",
       "cover_photo": {
-        "file": "",
+        "file": "assets/photos/Slayr_rollingloud_tristanstlws.jpg",
         "source_url": "https://commons.wikimedia.org/wiki/File%3ASlayr_rollingloud_tristanstlws.jpg",
-        "license": "Typographic public cover",
+        "license": null,
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-        "creator": "Portrait pending",
-        "reuse_status": "Source photo excluded from public preview; permission unresolved",
-        "changes": "No third-party portrait displayed in public cover."
+        "creator": "Tristanstlws",
+        "reuse_status": "permission unresolved — earlier asset ledger flags uploader/rights-holder provenance",
+        "changes": "Cropped, desaturated and darkened for the cover; CC BY-SA adaptation follows the same license where applicable.",
+        "preview_display_requested": true,
+        "claimed_license": "CC BY-SA 4.0",
+        "preview_note": "User requested portrait restoration in the public gallery preview; reuse permission remains unresolved."
       },
       "audience_geography": {
         "source": "Chartmetric",
