@@ -1,0 +1,1870 @@
+{
+  "brand": {
+    "name": "Underground Metrics",
+    "tagline": "The sound. The credits. The business.",
+    "suggested_handle": "@undergroundmetrics",
+    "handle_status": "availability not checked",
+    "palette": [
+      "#09121D",
+      "#E8E5DC",
+      "#B6A3DE",
+      "#7959C5"
+    ],
+    "fonts": [
+      "Anton",
+      "Bodoni Moda",
+      "IBM Plex Mono"
+    ]
+  },
+  "built": "2026-10-09",
+  "sources": {
+    "credits": {
+      "label": "Saved Spotify shared recording credits",
+      "url": "assets/recording-credits.json",
+      "status": "Saved evidence, 2026-10-08"
+    },
+    "impact": {
+      "label": "Official Impact release link",
+      "url": "https://nettspend.lnk.to/impact",
+      "status": "Opened 2026-10-09"
+    },
+    "pretti": {
+      "label": "The FADER: prettifun interview",
+      "url": "https://www.thefader.com/2025/08/04/prettifun-funhouse-deluxe-interview/",
+      "status": "Opened 2026-10-09; production context, no deal figures"
+    },
+    "moon": {
+      "label": "Album of the Year listener discussion",
+      "url": "https://www.albumoftheyear.org/album/1814760-prettifun-moon-and-the-stars/comments/",
+      "status": "Opened 2026-10-09; mixed listener reactions"
+    },
+    "daytona": {
+      "label": "Rainy Day Music review",
+      "url": "https://rainydaymusic.org/2026/04/14/half-blood-bloodluxe-slayr/",
+      "status": "Opened 2026-10-09; critic pick, not fan consensus"
+    },
+    "feng": {
+      "label": "Feng fan top-three thread",
+      "url": "https://www.reddit.com/r/fengeveryday/comments/1tgx6qg/top_3_feng_songs/",
+      "status": "Opened 2026-10-09; small sample, catalog credits pending"
+    },
+    "sosa": {
+      "label": "The FADER: Babyxsosa review",
+      "url": "https://www.thefader.com/2024/10/25/babyxsosa-babyonce-album-review-rap-blog",
+      "status": "Opened 2026-10-09; named hit songs, no ownership evidence"
+    },
+    "fan": {
+      "label": "Supplied MANNEQUIN fan discussion",
+      "url": "https://www.reddit.com/r/xaviersobased1c/comments/1memtid",
+      "status": "Fetch failed 2026-10-09; not used to support fan-consensus claims"
+    },
+    "rights": {
+      "label": "US Copyright Office: composition and recording distinction",
+      "url": "https://www.copyright.gov/engage/musicians/",
+      "status": "Opened 2026-10-09; general background only"
+    }
+  },
+  "posts": [
+    {
+      "id": "UM01",
+      "artist": "Che",
+      "tracks": [
+        "MANNEQUIN"
+      ],
+      "headline": "TWO VOICES.\nWHO GETS WHAT?",
+      "sub": "MANNEQUIN / Che × xaviersobased",
+      "day": "Monday",
+      "angle": "Che × xaviersobased / confirmed shared recording credit",
+      "source_ids": [
+        "credits",
+        "fan"
+      ],
+      "recording_credits": [
+        [
+          "Track",
+          "MANNEQUIN"
+        ],
+        [
+          "Recording artists",
+          "Che + xaviersobased"
+        ],
+        [
+          "Exact Spotify version",
+          "4BOZwlrJLGTPmePx9mM9pu"
+        ]
+      ],
+      "signal": "Saved Spotify metadata lists Che and xaviersobased on this recording. That establishes a collaboration, not its financial split.",
+      "question": "WHOSE PART DO YOU REPLAY?",
+      "publishing": {
+        "writers": null,
+        "ownership_splits": null,
+        "publishers": null
+      },
+      "master": {
+        "owner": null,
+        "artist_split": null,
+        "recoupment": null
+      },
+      "metrics": {
+        "spotify_streams": null,
+        "as_of": null,
+        "gross_revenue": null,
+        "artist_net": null
+      },
+      "status": "Research draft — financial inputs pending",
+      "slides": [
+        {
+          "kind": "cover",
+          "eyebrow": "THE BREAKDOWN / UM01",
+          "headline": "TWO VOICES.\nWHO GETS WHAT?",
+          "body": "MANNEQUIN / Che × xaviersobased",
+          "rows": []
+        },
+        {
+          "kind": "credits",
+          "eyebrow": "01 / THE RECORDING",
+          "headline": "START WITH THE CREDITS.",
+          "body": "Che × xaviersobased / confirmed shared recording credit",
+          "rows": [
+            [
+              "Track",
+              "MANNEQUIN"
+            ],
+            [
+              "Recording artists",
+              "Che + xaviersobased"
+            ],
+            [
+              "Exact Spotify version",
+              "4BOZwlrJLGTPmePx9mM9pu"
+            ]
+          ]
+        },
+        {
+          "kind": "publishing",
+          "eyebrow": "02 / THE SONG",
+          "headline": "WHO WROTE IT?",
+          "body": "Publishing covers the underlying composition. Recording-artist names do not establish writer ownership.",
+          "rows": [
+            [
+              "Writer credits",
+              "Not confirmed"
+            ],
+            [
+              "Publishing splits",
+              "Not confirmed"
+            ],
+            [
+              "Publisher / administrator",
+              "Not confirmed"
+            ]
+          ]
+        },
+        {
+          "kind": "master",
+          "eyebrow": "03 / THE MASTER",
+          "headline": "WHO OWNS THE RECORDING?",
+          "body": "The master is the recorded version. A feature credit does not reveal the ownership or payment terms.",
+          "rows": [
+            [
+              "Master owner",
+              "Not confirmed"
+            ],
+            [
+              "Artist / feature deal",
+              "Not confirmed"
+            ],
+            [
+              "Recoupment terms",
+              "Not confirmed"
+            ]
+          ]
+        },
+        {
+          "kind": "takeaway",
+          "eyebrow": "04 / THE TAKEAWAY",
+          "headline": "CREDITS FIRST. NUMBERS NEXT.",
+          "body": "Saved Spotify metadata lists Che and xaviersobased on this recording. That establishes a collaboration, not its financial split.",
+          "rows": [
+            [
+              "Streams + observation date",
+              "Research pending"
+            ],
+            [
+              "Revenue model",
+              "Not calculated"
+            ],
+            [
+              "Artist take-home",
+              "Not established"
+            ]
+          ]
+        },
+        {
+          "kind": "geography",
+          "eyebrow": "05 / THE AUDIENCE",
+          "headline": "WHERE THEY\nLISTEN.",
+          "body": "Che / Spotify listener geography. Country counts or shares will come from a dated Chartmetric capture.",
+          "rows": [
+            [
+              "Top country",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Second country",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Third country",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Observation / estimate status",
+              "Not captured"
+            ]
+          ]
+        },
+        {
+          "kind": "playlists",
+          "eyebrow": "06 / THE PLAYLISTS",
+          "headline": "THREE LISTS.\nONE SONG.",
+          "body": "MANNEQUIN / track-specific playlist placements. Ranking metric and date will be labeled when verified.",
+          "rows": [
+            [
+              "01 / Playlist",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "02 / Playlist",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "03 / Playlist",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Song streams from these lists",
+              "Not available"
+            ]
+          ]
+        },
+        {
+          "kind": "close",
+          "eyebrow": "07 / YOUR NEXT DEEP DIVE",
+          "headline": "WHOSE PART DO YOU REPLAY?",
+          "body": "Save the song. Follow the credits. Tell us which breakdown you want next.",
+          "rows": []
+        }
+      ],
+      "caption": "Che: MANNEQUIN. Saved Spotify metadata lists Che and xaviersobased on this recording. That establishes a collaboration, not its financial split. This draft separates the recording credits from the publishing and master questions. Ownership shares, revenue and artist take-home are not established by the current sources. Whose part do you replay?",
+      "cover_photo": {
+        "file": "",
+        "source_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF",
+        "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab6761610000e5eb856122aa629701a14755ab65",
+        "license": "Typographic public cover",
+        "creator": "Portrait pending",
+        "reuse_status": "Source photo excluded from public preview; permission unresolved",
+        "changes": "No third-party portrait displayed in public cover."
+      },
+      "audience_geography": {
+        "source": "Chartmetric",
+        "scope": "artist-level Spotify listeners, not song-level",
+        "platform": "Spotify",
+        "observed_at": null,
+        "estimate_status": "unknown pending source capture",
+        "countries": null,
+        "cities": null,
+        "percentage_denominator": null,
+        "status": "awaiting Claude research"
+      },
+      "playlist_analysis": {
+        "track": "MANNEQUIN",
+        "scope": "exact recording, one song per ranking",
+        "source": "Chartmetric",
+        "ranking_metric": null,
+        "window": null,
+        "top_three": null,
+        "attributed_streams": null,
+        "status": "awaiting Claude research",
+        "rule": "Playlist followers, reach and estimated listeners do not establish streams attributed to this song."
+      }
+    },
+    {
+      "id": "UM02",
+      "artist": "xaviersobased",
+      "tracks": [
+        "MANNEQUIN",
+        "Impact"
+      ],
+      "headline": "ONE ARTIST.\nTWO CONNECTIONS.",
+      "sub": "MANNEQUIN → Impact / follow Xavier’s credits",
+      "day": "Alternate",
+      "angle": "Recording credits",
+      "source_ids": [
+        "credits",
+        "impact"
+      ],
+      "recording_credits": [
+        [
+          "MANNEQUIN",
+          "Che + xaviersobased"
+        ],
+        [
+          "Impact",
+          "Nettspend + xaviersobased"
+        ],
+        [
+          "Connection",
+          "Shared recording credits"
+        ]
+      ],
+      "signal": "MANNEQUIN and Impact connect Xavier with Che and Nettspend. The official Impact link confirms both names.",
+      "question": "MANNEQUIN OR IMPACT?",
+      "publishing": {
+        "writers": null,
+        "ownership_splits": null,
+        "publishers": null
+      },
+      "master": {
+        "owner": null,
+        "artist_split": null,
+        "recoupment": null
+      },
+      "metrics": {
+        "spotify_streams": null,
+        "as_of": null,
+        "gross_revenue": null,
+        "artist_net": null
+      },
+      "status": "Research draft — financial inputs pending",
+      "slides": [
+        {
+          "kind": "cover",
+          "eyebrow": "THE BREAKDOWN / UM02",
+          "headline": "ONE ARTIST.\nTWO CONNECTIONS.",
+          "body": "MANNEQUIN → Impact / follow Xavier’s credits",
+          "rows": []
+        },
+        {
+          "kind": "credits",
+          "eyebrow": "01 / THE RECORDING",
+          "headline": "START WITH THE CREDITS.",
+          "body": "Recording credits",
+          "rows": [
+            [
+              "MANNEQUIN",
+              "Che + xaviersobased"
+            ],
+            [
+              "Impact",
+              "Nettspend + xaviersobased"
+            ],
+            [
+              "Connection",
+              "Shared recording credits"
+            ]
+          ]
+        },
+        {
+          "kind": "publishing",
+          "eyebrow": "02 / THE SONG",
+          "headline": "WHO WROTE IT?",
+          "body": "Publishing covers the underlying composition. Recording-artist names do not establish writer ownership.",
+          "rows": [
+            [
+              "Writer credits",
+              "Not confirmed"
+            ],
+            [
+              "Publishing splits",
+              "Not confirmed"
+            ],
+            [
+              "Publisher / administrator",
+              "Not confirmed"
+            ]
+          ]
+        },
+        {
+          "kind": "master",
+          "eyebrow": "03 / THE MASTER",
+          "headline": "WHO OWNS THE RECORDING?",
+          "body": "The master is the recorded version. A feature credit does not reveal the ownership or payment terms.",
+          "rows": [
+            [
+              "Master owner",
+              "Not confirmed"
+            ],
+            [
+              "Artist / feature deal",
+              "Not confirmed"
+            ],
+            [
+              "Recoupment terms",
+              "Not confirmed"
+            ]
+          ]
+        },
+        {
+          "kind": "takeaway",
+          "eyebrow": "04 / THE TAKEAWAY",
+          "headline": "CREDITS FIRST. NUMBERS NEXT.",
+          "body": "MANNEQUIN and Impact connect Xavier with Che and Nettspend. The official Impact link confirms both names.",
+          "rows": [
+            [
+              "Streams + observation date",
+              "Research pending"
+            ],
+            [
+              "Revenue model",
+              "Not calculated"
+            ],
+            [
+              "Artist take-home",
+              "Not established"
+            ]
+          ]
+        },
+        {
+          "kind": "geography",
+          "eyebrow": "05 / THE AUDIENCE",
+          "headline": "WHERE THEY\nLISTEN.",
+          "body": "xaviersobased / Spotify listener geography. Country counts or shares will come from a dated Chartmetric capture.",
+          "rows": [
+            [
+              "Top country",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Second country",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Third country",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Observation / estimate status",
+              "Not captured"
+            ]
+          ]
+        },
+        {
+          "kind": "playlists",
+          "eyebrow": "06 / THE PLAYLISTS",
+          "headline": "THREE LISTS.\nONE SONG.",
+          "body": "MANNEQUIN / track-specific playlist placements. Ranking metric and date will be labeled when verified.",
+          "rows": [
+            [
+              "01 / Playlist",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "02 / Playlist",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "03 / Playlist",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Song streams from these lists",
+              "Not available"
+            ]
+          ]
+        },
+        {
+          "kind": "close",
+          "eyebrow": "07 / YOUR NEXT DEEP DIVE",
+          "headline": "MANNEQUIN OR IMPACT?",
+          "body": "Save the song. Follow the credits. Tell us which breakdown you want next.",
+          "rows": []
+        }
+      ],
+      "caption": "xaviersobased: MANNEQUIN, Impact. MANNEQUIN and Impact connect Xavier with Che and Nettspend. The official Impact link confirms both names. This draft separates the recording credits from the publishing and master questions. Ownership shares, revenue and artist take-home are not established by the current sources. Mannequin or impact?",
+      "cover_photo": {
+        "file": "assets/photos/Xaviersobased_2-2-23.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File%3AXaviersobased_%282-2-23%29.jpg",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "creator": "Ninecalling",
+        "reuse_status": "licensed",
+        "changes": "Cropped, desaturated and darkened for the cover; CC BY-SA adaptation follows the same license where applicable."
+      },
+      "audience_geography": {
+        "source": "Chartmetric",
+        "scope": "artist-level Spotify listeners, not song-level",
+        "platform": "Spotify",
+        "observed_at": null,
+        "estimate_status": "unknown pending source capture",
+        "countries": null,
+        "cities": null,
+        "percentage_denominator": null,
+        "status": "awaiting Claude research"
+      },
+      "playlist_analysis": {
+        "track": "MANNEQUIN",
+        "scope": "exact recording, one song per ranking",
+        "source": "Chartmetric",
+        "ranking_metric": null,
+        "window": null,
+        "top_three": null,
+        "attributed_streams": null,
+        "status": "awaiting Claude research",
+        "rule": "Playlist followers, reach and estimated listeners do not establish streams attributed to this song."
+      }
+    },
+    {
+      "id": "UM03",
+      "artist": "Nettspend",
+      "tracks": [
+        "KickAss (Pull Up Pls)",
+        "Impact"
+      ],
+      "headline": "THE FEATURE\nIS HALF THE STORY.",
+      "sub": "KickAss (Pull Up Pls) / Impact",
+      "day": "Alternate",
+      "angle": "Recording credits",
+      "source_ids": [
+        "credits",
+        "impact"
+      ],
+      "recording_credits": [
+        [
+          "KickAss (Pull Up Pls)",
+          "Che + Nettspend"
+        ],
+        [
+          "Impact",
+          "Nettspend + xaviersobased"
+        ],
+        [
+          "Feature payment",
+          "Not documented"
+        ]
+      ],
+      "signal": "These two recordings connect Nettspend with Che and xaviersobased. Their artist credits do not establish a feature fee or royalty share.",
+      "question": "WHICH COLLAB HITS HARDER?",
+      "publishing": {
+        "writers": null,
+        "ownership_splits": null,
+        "publishers": null
+      },
+      "master": {
+        "owner": null,
+        "artist_split": null,
+        "recoupment": null
+      },
+      "metrics": {
+        "spotify_streams": null,
+        "as_of": null,
+        "gross_revenue": null,
+        "artist_net": null
+      },
+      "status": "Research draft — financial inputs pending",
+      "slides": [
+        {
+          "kind": "cover",
+          "eyebrow": "THE BREAKDOWN / UM03",
+          "headline": "THE FEATURE\nIS HALF THE STORY.",
+          "body": "KickAss (Pull Up Pls) / Impact",
+          "rows": []
+        },
+        {
+          "kind": "credits",
+          "eyebrow": "01 / THE RECORDING",
+          "headline": "START WITH THE CREDITS.",
+          "body": "Recording credits",
+          "rows": [
+            [
+              "KickAss (Pull Up Pls)",
+              "Che + Nettspend"
+            ],
+            [
+              "Impact",
+              "Nettspend + xaviersobased"
+            ],
+            [
+              "Feature payment",
+              "Not documented"
+            ]
+          ]
+        },
+        {
+          "kind": "publishing",
+          "eyebrow": "02 / THE SONG",
+          "headline": "WHO WROTE IT?",
+          "body": "Publishing covers the underlying composition. Recording-artist names do not establish writer ownership.",
+          "rows": [
+            [
+              "Writer credits",
+              "Not confirmed"
+            ],
+            [
+              "Publishing splits",
+              "Not confirmed"
+            ],
+            [
+              "Publisher / administrator",
+              "Not confirmed"
+            ]
+          ]
+        },
+        {
+          "kind": "master",
+          "eyebrow": "03 / THE MASTER",
+          "headline": "WHO OWNS THE RECORDING?",
+          "body": "The master is the recorded version. A feature credit does not reveal the ownership or payment terms.",
+          "rows": [
+            [
+              "Master owner",
+              "Not confirmed"
+            ],
+            [
+              "Artist / feature deal",
+              "Not confirmed"
+            ],
+            [
+              "Recoupment terms",
+              "Not confirmed"
+            ]
+          ]
+        },
+        {
+          "kind": "takeaway",
+          "eyebrow": "04 / THE TAKEAWAY",
+          "headline": "CREDITS FIRST. NUMBERS NEXT.",
+          "body": "These two recordings connect Nettspend with Che and xaviersobased. Their artist credits do not establish a feature fee or royalty share.",
+          "rows": [
+            [
+              "Streams + observation date",
+              "Research pending"
+            ],
+            [
+              "Revenue model",
+              "Not calculated"
+            ],
+            [
+              "Artist take-home",
+              "Not established"
+            ]
+          ]
+        },
+        {
+          "kind": "geography",
+          "eyebrow": "05 / THE AUDIENCE",
+          "headline": "WHERE THEY\nLISTEN.",
+          "body": "Nettspend / Spotify listener geography. Country counts or shares will come from a dated Chartmetric capture.",
+          "rows": [
+            [
+              "Top country",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Second country",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Third country",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Observation / estimate status",
+              "Not captured"
+            ]
+          ]
+        },
+        {
+          "kind": "playlists",
+          "eyebrow": "06 / THE PLAYLISTS",
+          "headline": "THREE LISTS.\nONE SONG.",
+          "body": "KickAss (Pull Up Pls) / track-specific playlist placements. Ranking metric and date will be labeled when verified.",
+          "rows": [
+            [
+              "01 / Playlist",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "02 / Playlist",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "03 / Playlist",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Song streams from these lists",
+              "Not available"
+            ]
+          ]
+        },
+        {
+          "kind": "close",
+          "eyebrow": "07 / YOUR NEXT DEEP DIVE",
+          "headline": "WHICH COLLAB HITS HARDER?",
+          "body": "Save the song. Follow the credits. Tell us which breakdown you want next.",
+          "rows": []
+        }
+      ],
+      "caption": "Nettspend: KickAss (Pull Up Pls), Impact. These two recordings connect Nettspend with Che and xaviersobased. Their artist credits do not establish a feature fee or royalty share. This draft separates the recording credits from the publishing and master questions. Ownership shares, revenue and artist take-home are not established by the current sources. Which collab hits harder?",
+      "cover_photo": {
+        "file": "assets/photos/Nettspend.webp",
+        "source_url": "https://commons.wikimedia.org/wiki/File%3ANettspend.webp",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "creator": "@justusedd on Instagram",
+        "reuse_status": "licensed",
+        "changes": "Cropped, desaturated and darkened for the cover; CC BY-SA adaptation follows the same license where applicable."
+      },
+      "audience_geography": {
+        "source": "Chartmetric",
+        "scope": "artist-level Spotify listeners, not song-level",
+        "platform": "Spotify",
+        "observed_at": null,
+        "estimate_status": "unknown pending source capture",
+        "countries": null,
+        "cities": null,
+        "percentage_denominator": null,
+        "status": "awaiting Claude research"
+      },
+      "playlist_analysis": {
+        "track": "KickAss (Pull Up Pls)",
+        "scope": "exact recording, one song per ranking",
+        "source": "Chartmetric",
+        "ranking_metric": null,
+        "window": null,
+        "top_three": null,
+        "attributed_streams": null,
+        "status": "awaiting Claude research",
+        "rule": "Playlist followers, reach and estimated listeners do not establish streams attributed to this song."
+      }
+    },
+    {
+      "id": "UM04",
+      "artist": "Lucy Bedroque",
+      "tracks": [
+        "Daytona"
+      ],
+      "headline": "DAYTONA.\nFOLLOW BOTH NAMES.",
+      "sub": "Lucy Bedroque × slayr",
+      "day": "Alternate",
+      "angle": "Recording credits",
+      "source_ids": [
+        "credits",
+        "daytona"
+      ],
+      "recording_credits": [
+        [
+          "Track",
+          "Daytona"
+        ],
+        [
+          "Recording artists",
+          "slayr + Lucy Bedroque"
+        ],
+        [
+          "Exact Spotify version",
+          "1z8YIll8YL4H0HqWH6MRH8"
+        ]
+      ],
+      "signal": "Spotify metadata confirms both recording artists. A Rainy Day Music review names Daytona among its best tracks; that is one critic’s assessment.",
+      "question": "WHO BROUGHT YOU TO DAYTONA?",
+      "publishing": {
+        "writers": null,
+        "ownership_splits": null,
+        "publishers": null
+      },
+      "master": {
+        "owner": null,
+        "artist_split": null,
+        "recoupment": null
+      },
+      "metrics": {
+        "spotify_streams": null,
+        "as_of": null,
+        "gross_revenue": null,
+        "artist_net": null
+      },
+      "status": "Research draft — financial inputs pending",
+      "slides": [
+        {
+          "kind": "cover",
+          "eyebrow": "THE BREAKDOWN / UM04",
+          "headline": "DAYTONA.\nFOLLOW BOTH NAMES.",
+          "body": "Lucy Bedroque × slayr",
+          "rows": []
+        },
+        {
+          "kind": "credits",
+          "eyebrow": "01 / THE RECORDING",
+          "headline": "START WITH THE CREDITS.",
+          "body": "Recording credits",
+          "rows": [
+            [
+              "Track",
+              "Daytona"
+            ],
+            [
+              "Recording artists",
+              "slayr + Lucy Bedroque"
+            ],
+            [
+              "Exact Spotify version",
+              "1z8YIll8YL4H0HqWH6MRH8"
+            ]
+          ]
+        },
+        {
+          "kind": "publishing",
+          "eyebrow": "02 / THE SONG",
+          "headline": "WHO WROTE IT?",
+          "body": "Publishing covers the underlying composition. Recording-artist names do not establish writer ownership.",
+          "rows": [
+            [
+              "Writer credits",
+              "Not confirmed"
+            ],
+            [
+              "Publishing splits",
+              "Not confirmed"
+            ],
+            [
+              "Publisher / administrator",
+              "Not confirmed"
+            ]
+          ]
+        },
+        {
+          "kind": "master",
+          "eyebrow": "03 / THE MASTER",
+          "headline": "WHO OWNS THE RECORDING?",
+          "body": "The master is the recorded version. A feature credit does not reveal the ownership or payment terms.",
+          "rows": [
+            [
+              "Master owner",
+              "Not confirmed"
+            ],
+            [
+              "Artist / feature deal",
+              "Not confirmed"
+            ],
+            [
+              "Recoupment terms",
+              "Not confirmed"
+            ]
+          ]
+        },
+        {
+          "kind": "takeaway",
+          "eyebrow": "04 / THE TAKEAWAY",
+          "headline": "CREDITS FIRST. NUMBERS NEXT.",
+          "body": "Spotify metadata confirms both recording artists. A Rainy Day Music review names Daytona among its best tracks; that is one critic’s assessment.",
+          "rows": [
+            [
+              "Streams + observation date",
+              "Research pending"
+            ],
+            [
+              "Revenue model",
+              "Not calculated"
+            ],
+            [
+              "Artist take-home",
+              "Not established"
+            ]
+          ]
+        },
+        {
+          "kind": "geography",
+          "eyebrow": "05 / THE AUDIENCE",
+          "headline": "WHERE THEY\nLISTEN.",
+          "body": "Lucy Bedroque / Spotify listener geography. Country counts or shares will come from a dated Chartmetric capture.",
+          "rows": [
+            [
+              "Top country",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Second country",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Third country",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Observation / estimate status",
+              "Not captured"
+            ]
+          ]
+        },
+        {
+          "kind": "playlists",
+          "eyebrow": "06 / THE PLAYLISTS",
+          "headline": "THREE LISTS.\nONE SONG.",
+          "body": "Daytona / track-specific playlist placements. Ranking metric and date will be labeled when verified.",
+          "rows": [
+            [
+              "01 / Playlist",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "02 / Playlist",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "03 / Playlist",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Song streams from these lists",
+              "Not available"
+            ]
+          ]
+        },
+        {
+          "kind": "close",
+          "eyebrow": "07 / YOUR NEXT DEEP DIVE",
+          "headline": "WHO BROUGHT YOU TO DAYTONA?",
+          "body": "Save the song. Follow the credits. Tell us which breakdown you want next.",
+          "rows": []
+        }
+      ],
+      "caption": "Lucy Bedroque: Daytona. Spotify metadata confirms both recording artists. A Rainy Day Music review names Daytona among its best tracks; that is one critic’s assessment. This draft separates the recording credits from the publishing and master questions. Ownership shares, revenue and artist take-home are not established by the current sources. Who brought you to daytona?",
+      "cover_photo": {
+        "file": "",
+        "source_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O",
+        "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
+        "license": "Typographic public cover",
+        "creator": "Portrait pending",
+        "reuse_status": "Source photo excluded from public preview; permission unresolved",
+        "changes": "No third-party portrait displayed in public cover."
+      },
+      "audience_geography": {
+        "source": "Chartmetric",
+        "scope": "artist-level Spotify listeners, not song-level",
+        "platform": "Spotify",
+        "observed_at": null,
+        "estimate_status": "unknown pending source capture",
+        "countries": null,
+        "cities": null,
+        "percentage_denominator": null,
+        "status": "awaiting Claude research"
+      },
+      "playlist_analysis": {
+        "track": "Daytona",
+        "scope": "exact recording, one song per ranking",
+        "source": "Chartmetric",
+        "ranking_metric": null,
+        "window": null,
+        "top_three": null,
+        "attributed_streams": null,
+        "status": "awaiting Claude research",
+        "rule": "Playlist followers, reach and estimated listeners do not establish streams attributed to this song."
+      }
+    },
+    {
+      "id": "UM05",
+      "artist": "slayr",
+      "tracks": [
+        "Daytona"
+      ],
+      "headline": "TWO ARTISTS.\nONE RECORDING.",
+      "sub": "Daytona / slayr × Lucy Bedroque",
+      "day": "Wednesday",
+      "angle": "Recording credits",
+      "source_ids": [
+        "credits",
+        "daytona"
+      ],
+      "recording_credits": [
+        [
+          "Track",
+          "Daytona"
+        ],
+        [
+          "Recording artists",
+          "slayr + Lucy Bedroque"
+        ],
+        [
+          "Producer credits",
+          "Research pending"
+        ]
+      ],
+      "signal": "Daytona offers a confirmed listening route between slayr and Lucy Bedroque. Production credits and ownership terms need their own evidence.",
+      "question": "DAYTONA OR YOUR OTHER SLAYR PICK?",
+      "publishing": {
+        "writers": null,
+        "ownership_splits": null,
+        "publishers": null
+      },
+      "master": {
+        "owner": null,
+        "artist_split": null,
+        "recoupment": null
+      },
+      "metrics": {
+        "spotify_streams": null,
+        "as_of": null,
+        "gross_revenue": null,
+        "artist_net": null
+      },
+      "status": "Research draft — financial inputs pending",
+      "slides": [
+        {
+          "kind": "cover",
+          "eyebrow": "THE BREAKDOWN / UM05",
+          "headline": "TWO ARTISTS.\nONE RECORDING.",
+          "body": "Daytona / slayr × Lucy Bedroque",
+          "rows": []
+        },
+        {
+          "kind": "credits",
+          "eyebrow": "01 / THE RECORDING",
+          "headline": "START WITH THE CREDITS.",
+          "body": "Recording credits",
+          "rows": [
+            [
+              "Track",
+              "Daytona"
+            ],
+            [
+              "Recording artists",
+              "slayr + Lucy Bedroque"
+            ],
+            [
+              "Producer credits",
+              "Research pending"
+            ]
+          ]
+        },
+        {
+          "kind": "publishing",
+          "eyebrow": "02 / THE SONG",
+          "headline": "WHO WROTE IT?",
+          "body": "Publishing covers the underlying composition. Recording-artist names do not establish writer ownership.",
+          "rows": [
+            [
+              "Writer credits",
+              "Not confirmed"
+            ],
+            [
+              "Publishing splits",
+              "Not confirmed"
+            ],
+            [
+              "Publisher / administrator",
+              "Not confirmed"
+            ]
+          ]
+        },
+        {
+          "kind": "master",
+          "eyebrow": "03 / THE MASTER",
+          "headline": "WHO OWNS THE RECORDING?",
+          "body": "The master is the recorded version. A feature credit does not reveal the ownership or payment terms.",
+          "rows": [
+            [
+              "Master owner",
+              "Not confirmed"
+            ],
+            [
+              "Artist / feature deal",
+              "Not confirmed"
+            ],
+            [
+              "Recoupment terms",
+              "Not confirmed"
+            ]
+          ]
+        },
+        {
+          "kind": "takeaway",
+          "eyebrow": "04 / THE TAKEAWAY",
+          "headline": "CREDITS FIRST. NUMBERS NEXT.",
+          "body": "Daytona offers a confirmed listening route between slayr and Lucy Bedroque. Production credits and ownership terms need their own evidence.",
+          "rows": [
+            [
+              "Streams + observation date",
+              "Research pending"
+            ],
+            [
+              "Revenue model",
+              "Not calculated"
+            ],
+            [
+              "Artist take-home",
+              "Not established"
+            ]
+          ]
+        },
+        {
+          "kind": "geography",
+          "eyebrow": "05 / THE AUDIENCE",
+          "headline": "WHERE THEY\nLISTEN.",
+          "body": "slayr / Spotify listener geography. Country counts or shares will come from a dated Chartmetric capture.",
+          "rows": [
+            [
+              "Top country",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Second country",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Third country",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Observation / estimate status",
+              "Not captured"
+            ]
+          ]
+        },
+        {
+          "kind": "playlists",
+          "eyebrow": "06 / THE PLAYLISTS",
+          "headline": "THREE LISTS.\nONE SONG.",
+          "body": "Daytona / track-specific playlist placements. Ranking metric and date will be labeled when verified.",
+          "rows": [
+            [
+              "01 / Playlist",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "02 / Playlist",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "03 / Playlist",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Song streams from these lists",
+              "Not available"
+            ]
+          ]
+        },
+        {
+          "kind": "close",
+          "eyebrow": "07 / YOUR NEXT DEEP DIVE",
+          "headline": "DAYTONA OR YOUR OTHER SLAYR PICK?",
+          "body": "Save the song. Follow the credits. Tell us which breakdown you want next.",
+          "rows": []
+        }
+      ],
+      "caption": "slayr: Daytona. Daytona offers a confirmed listening route between slayr and Lucy Bedroque. Production credits and ownership terms need their own evidence. This draft separates the recording credits from the publishing and master questions. Ownership shares, revenue and artist take-home are not established by the current sources. Daytona or your other slayr pick?",
+      "cover_photo": {
+        "file": "assets/photos/Slayr_rollingloud_tristanstlws.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File%3ASlayr_rollingloud_tristanstlws.jpg",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "creator": "Tristanstlws",
+        "reuse_status": "licensed",
+        "changes": "Cropped, desaturated and darkened for the cover; CC BY-SA adaptation follows the same license where applicable."
+      },
+      "audience_geography": {
+        "source": "Chartmetric",
+        "scope": "artist-level Spotify listeners, not song-level",
+        "platform": "Spotify",
+        "observed_at": null,
+        "estimate_status": "unknown pending source capture",
+        "countries": null,
+        "cities": null,
+        "percentage_denominator": null,
+        "status": "awaiting Claude research"
+      },
+      "playlist_analysis": {
+        "track": "Daytona",
+        "scope": "exact recording, one song per ranking",
+        "source": "Chartmetric",
+        "ranking_metric": null,
+        "window": null,
+        "top_three": null,
+        "attributed_streams": null,
+        "status": "awaiting Claude research",
+        "rule": "Playlist followers, reach and estimated listeners do not establish streams attributed to this song."
+      }
+    },
+    {
+      "id": "UM06",
+      "artist": "prettifun",
+      "tracks": [
+        "Moon and the Stars",
+        "Pizza Time"
+      ],
+      "headline": "ON THE MIC.\nBEHIND THE BEAT.",
+      "sub": "Moon and the Stars / a production connection to Che",
+      "day": "Friday",
+      "angle": "Keep the prettifun listening pick separate from Che’s production story",
+      "source_ids": [
+        "moon",
+        "pretti"
+      ],
+      "recording_credits": [
+        [
+          "Listening pick",
+          "Moon and the Stars"
+        ],
+        [
+          "Separate Che connection",
+          "Pizza Time"
+        ],
+        [
+          "Connection type",
+          "Production context; not a vocal feature"
+        ]
+      ],
+      "signal": "Moon and the Stars has both praise and dissent in listener comments. The FADER interview connects prettifun’s production work with Che’s Pizza Time; it supplies no royalty split.",
+      "question": "VOCALS OR PRODUCTION: WHERE DID YOU START?",
+      "publishing": {
+        "writers": null,
+        "ownership_splits": null,
+        "publishers": null
+      },
+      "master": {
+        "owner": null,
+        "artist_split": null,
+        "recoupment": null
+      },
+      "metrics": {
+        "spotify_streams": null,
+        "as_of": null,
+        "gross_revenue": null,
+        "artist_net": null
+      },
+      "status": "Research draft — financial inputs pending",
+      "slides": [
+        {
+          "kind": "cover",
+          "eyebrow": "THE BREAKDOWN / UM06",
+          "headline": "ON THE MIC.\nBEHIND THE BEAT.",
+          "body": "Moon and the Stars / a production connection to Che",
+          "rows": []
+        },
+        {
+          "kind": "credits",
+          "eyebrow": "01 / THE RECORDING",
+          "headline": "START WITH THE CREDITS.",
+          "body": "Keep the prettifun listening pick separate from Che’s production story",
+          "rows": [
+            [
+              "Listening pick",
+              "Moon and the Stars"
+            ],
+            [
+              "Separate Che connection",
+              "Pizza Time"
+            ],
+            [
+              "Connection type",
+              "Production context; not a vocal feature"
+            ]
+          ]
+        },
+        {
+          "kind": "publishing",
+          "eyebrow": "02 / THE SONG",
+          "headline": "WHO WROTE IT?",
+          "body": "Publishing covers the underlying composition. Recording-artist names do not establish writer ownership.",
+          "rows": [
+            [
+              "Writer credits",
+              "Not confirmed"
+            ],
+            [
+              "Publishing splits",
+              "Not confirmed"
+            ],
+            [
+              "Publisher / administrator",
+              "Not confirmed"
+            ]
+          ]
+        },
+        {
+          "kind": "master",
+          "eyebrow": "03 / THE MASTER",
+          "headline": "WHO OWNS THE RECORDING?",
+          "body": "The master is the recorded version. A feature credit does not reveal the ownership or payment terms.",
+          "rows": [
+            [
+              "Master owner",
+              "Not confirmed"
+            ],
+            [
+              "Artist / feature deal",
+              "Not confirmed"
+            ],
+            [
+              "Recoupment terms",
+              "Not confirmed"
+            ]
+          ]
+        },
+        {
+          "kind": "takeaway",
+          "eyebrow": "04 / THE TAKEAWAY",
+          "headline": "CREDITS FIRST. NUMBERS NEXT.",
+          "body": "Moon and the Stars has both praise and dissent in listener comments. The FADER interview connects prettifun’s production work with Che’s Pizza Time; it supplies no royalty split.",
+          "rows": [
+            [
+              "Streams + observation date",
+              "Research pending"
+            ],
+            [
+              "Revenue model",
+              "Not calculated"
+            ],
+            [
+              "Artist take-home",
+              "Not established"
+            ]
+          ]
+        },
+        {
+          "kind": "geography",
+          "eyebrow": "05 / THE AUDIENCE",
+          "headline": "WHERE THEY\nLISTEN.",
+          "body": "prettifun / Spotify listener geography. Country counts or shares will come from a dated Chartmetric capture.",
+          "rows": [
+            [
+              "Top country",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Second country",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Third country",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Observation / estimate status",
+              "Not captured"
+            ]
+          ]
+        },
+        {
+          "kind": "playlists",
+          "eyebrow": "06 / THE PLAYLISTS",
+          "headline": "THREE LISTS.\nONE SONG.",
+          "body": "Moon and the Stars / track-specific playlist placements. Ranking metric and date will be labeled when verified.",
+          "rows": [
+            [
+              "01 / Playlist",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "02 / Playlist",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "03 / Playlist",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Song streams from these lists",
+              "Not available"
+            ]
+          ]
+        },
+        {
+          "kind": "close",
+          "eyebrow": "07 / YOUR NEXT DEEP DIVE",
+          "headline": "VOCALS OR PRODUCTION: WHERE DID YOU START?",
+          "body": "Save the song. Follow the credits. Tell us which breakdown you want next.",
+          "rows": []
+        }
+      ],
+      "caption": "prettifun: Moon and the Stars, Pizza Time. Moon and the Stars has both praise and dissent in listener comments. The FADER interview connects prettifun’s production work with Che’s Pizza Time; it supplies no royalty split. This draft separates the recording credits from the publishing and master questions. Ownership shares, revenue and artist take-home are not established by the current sources. Vocals or production: where did you start?",
+      "cover_photo": {
+        "file": "assets/photos/Prettifun.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File%3APrettifun.png",
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "creator": "KyleSirTalksAlot",
+        "reuse_status": "licensed",
+        "changes": "Cropped, desaturated and darkened for the cover; CC BY-SA adaptation follows the same license where applicable."
+      },
+      "audience_geography": {
+        "source": "Chartmetric",
+        "scope": "artist-level Spotify listeners, not song-level",
+        "platform": "Spotify",
+        "observed_at": null,
+        "estimate_status": "unknown pending source capture",
+        "countries": null,
+        "cities": null,
+        "percentage_denominator": null,
+        "status": "awaiting Claude research"
+      },
+      "playlist_analysis": {
+        "track": "Moon and the Stars",
+        "scope": "exact recording, one song per ranking",
+        "source": "Chartmetric",
+        "ranking_metric": null,
+        "window": null,
+        "top_three": null,
+        "attributed_streams": null,
+        "status": "awaiting Claude research",
+        "rule": "Playlist followers, reach and estimated listeners do not establish streams attributed to this song."
+      }
+    },
+    {
+      "id": "UM07",
+      "artist": "Feng",
+      "tracks": [
+        "Princess",
+        "XOXO"
+      ],
+      "headline": "YOUR PICK.\nTHE CREDIT CHECK NEXT.",
+      "sub": "Princess / XOXO",
+      "day": "Alternate",
+      "angle": "Recording credits",
+      "source_ids": [
+        "feng"
+      ],
+      "recording_credits": [
+        [
+          "Listening picks",
+          "Princess + XOXO"
+        ],
+        [
+          "Source",
+          "A fan top-three discussion"
+        ],
+        [
+          "Exact recording / contributors",
+          "Research pending"
+        ]
+      ],
+      "signal": "Princess and XOXO appear in a small fan recommendation thread. These are listening leads, not a measured fan ranking or verified ownership map.",
+      "question": "PRINCESS OR XOXO?",
+      "publishing": {
+        "writers": null,
+        "ownership_splits": null,
+        "publishers": null
+      },
+      "master": {
+        "owner": null,
+        "artist_split": null,
+        "recoupment": null
+      },
+      "metrics": {
+        "spotify_streams": null,
+        "as_of": null,
+        "gross_revenue": null,
+        "artist_net": null
+      },
+      "status": "Research draft — financial inputs pending",
+      "slides": [
+        {
+          "kind": "cover",
+          "eyebrow": "THE BREAKDOWN / UM07",
+          "headline": "YOUR PICK.\nTHE CREDIT CHECK NEXT.",
+          "body": "Princess / XOXO",
+          "rows": []
+        },
+        {
+          "kind": "credits",
+          "eyebrow": "01 / THE RECORDING",
+          "headline": "START WITH THE CREDITS.",
+          "body": "Recording credits",
+          "rows": [
+            [
+              "Listening picks",
+              "Princess + XOXO"
+            ],
+            [
+              "Source",
+              "A fan top-three discussion"
+            ],
+            [
+              "Exact recording / contributors",
+              "Research pending"
+            ]
+          ]
+        },
+        {
+          "kind": "publishing",
+          "eyebrow": "02 / THE SONG",
+          "headline": "WHO WROTE IT?",
+          "body": "Publishing covers the underlying composition. Recording-artist names do not establish writer ownership.",
+          "rows": [
+            [
+              "Writer credits",
+              "Not confirmed"
+            ],
+            [
+              "Publishing splits",
+              "Not confirmed"
+            ],
+            [
+              "Publisher / administrator",
+              "Not confirmed"
+            ]
+          ]
+        },
+        {
+          "kind": "master",
+          "eyebrow": "03 / THE MASTER",
+          "headline": "WHO OWNS THE RECORDING?",
+          "body": "The master is the recorded version. A feature credit does not reveal the ownership or payment terms.",
+          "rows": [
+            [
+              "Master owner",
+              "Not confirmed"
+            ],
+            [
+              "Artist / feature deal",
+              "Not confirmed"
+            ],
+            [
+              "Recoupment terms",
+              "Not confirmed"
+            ]
+          ]
+        },
+        {
+          "kind": "takeaway",
+          "eyebrow": "04 / THE TAKEAWAY",
+          "headline": "CREDITS FIRST. NUMBERS NEXT.",
+          "body": "Princess and XOXO appear in a small fan recommendation thread. These are listening leads, not a measured fan ranking or verified ownership map.",
+          "rows": [
+            [
+              "Streams + observation date",
+              "Research pending"
+            ],
+            [
+              "Revenue model",
+              "Not calculated"
+            ],
+            [
+              "Artist take-home",
+              "Not established"
+            ]
+          ]
+        },
+        {
+          "kind": "geography",
+          "eyebrow": "05 / THE AUDIENCE",
+          "headline": "WHERE THEY\nLISTEN.",
+          "body": "Feng / Spotify listener geography. Country counts or shares will come from a dated Chartmetric capture.",
+          "rows": [
+            [
+              "Top country",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Second country",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Third country",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Observation / estimate status",
+              "Not captured"
+            ]
+          ]
+        },
+        {
+          "kind": "playlists",
+          "eyebrow": "06 / THE PLAYLISTS",
+          "headline": "THREE LISTS.\nONE SONG.",
+          "body": "Princess / track-specific playlist placements. Ranking metric and date will be labeled when verified.",
+          "rows": [
+            [
+              "01 / Playlist",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "02 / Playlist",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "03 / Playlist",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Song streams from these lists",
+              "Not available"
+            ]
+          ]
+        },
+        {
+          "kind": "close",
+          "eyebrow": "07 / YOUR NEXT DEEP DIVE",
+          "headline": "PRINCESS OR XOXO?",
+          "body": "Save the song. Follow the credits. Tell us which breakdown you want next.",
+          "rows": []
+        }
+      ],
+      "caption": "Feng: Princess, XOXO. Princess and XOXO appear in a small fan recommendation thread. These are listening leads, not a measured fan ranking or verified ownership map. This draft separates the recording credits from the publishing and master questions. Ownership shares, revenue and artist take-home are not established by the current sources. Princess or xoxo?",
+      "cover_photo": {
+        "file": "assets/photos/Feng_in_Vancouver.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File%3AFeng_in_Vancouver.png",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "creator": "Helicoptercigarette",
+        "reuse_status": "licensed",
+        "changes": "Cropped, desaturated and darkened for the cover; CC BY-SA adaptation follows the same license where applicable."
+      },
+      "audience_geography": {
+        "source": "Chartmetric",
+        "scope": "artist-level Spotify listeners, not song-level",
+        "platform": "Spotify",
+        "observed_at": null,
+        "estimate_status": "unknown pending source capture",
+        "countries": null,
+        "cities": null,
+        "percentage_denominator": null,
+        "status": "awaiting Claude research"
+      },
+      "playlist_analysis": {
+        "track": "Princess",
+        "scope": "exact recording, one song per ranking",
+        "source": "Chartmetric",
+        "ranking_metric": null,
+        "window": null,
+        "top_three": null,
+        "attributed_streams": null,
+        "status": "awaiting Claude research",
+        "rule": "Playlist followers, reach and estimated listeners do not establish streams attributed to this song."
+      }
+    },
+    {
+      "id": "UM08",
+      "artist": "Babyxsosa",
+      "tracks": [
+        "Everywhereigo",
+        "DRAMA BABY / MALIBU"
+      ],
+      "headline": "THE HIT.\nTHE BUSINESS BEHIND IT.",
+      "sub": "Everywhereigo / DRAMA BABY / MALIBU",
+      "day": "Alternate",
+      "angle": "Recording credits",
+      "source_ids": [
+        "sosa"
+      ],
+      "recording_credits": [
+        [
+          "Listening pick",
+          "Everywhereigo"
+        ],
+        [
+          "Second pick",
+          "DRAMA BABY / MALIBU"
+        ],
+        [
+          "Exact contributor credits",
+          "Research pending"
+        ]
+      ],
+      "signal": "The FADER identifies these songs among Babyxsosa’s biggest hits. Its review does not establish track revenue, writer shares or master ownership.",
+      "question": "WHICH SONG PUT YOU ON?",
+      "publishing": {
+        "writers": null,
+        "ownership_splits": null,
+        "publishers": null
+      },
+      "master": {
+        "owner": null,
+        "artist_split": null,
+        "recoupment": null
+      },
+      "metrics": {
+        "spotify_streams": null,
+        "as_of": null,
+        "gross_revenue": null,
+        "artist_net": null
+      },
+      "status": "Research draft — financial inputs pending",
+      "slides": [
+        {
+          "kind": "cover",
+          "eyebrow": "THE BREAKDOWN / UM08",
+          "headline": "THE HIT.\nTHE BUSINESS BEHIND IT.",
+          "body": "Everywhereigo / DRAMA BABY / MALIBU",
+          "rows": []
+        },
+        {
+          "kind": "credits",
+          "eyebrow": "01 / THE RECORDING",
+          "headline": "START WITH THE CREDITS.",
+          "body": "Recording credits",
+          "rows": [
+            [
+              "Listening pick",
+              "Everywhereigo"
+            ],
+            [
+              "Second pick",
+              "DRAMA BABY / MALIBU"
+            ],
+            [
+              "Exact contributor credits",
+              "Research pending"
+            ]
+          ]
+        },
+        {
+          "kind": "publishing",
+          "eyebrow": "02 / THE SONG",
+          "headline": "WHO WROTE IT?",
+          "body": "Publishing covers the underlying composition. Recording-artist names do not establish writer ownership.",
+          "rows": [
+            [
+              "Writer credits",
+              "Not confirmed"
+            ],
+            [
+              "Publishing splits",
+              "Not confirmed"
+            ],
+            [
+              "Publisher / administrator",
+              "Not confirmed"
+            ]
+          ]
+        },
+        {
+          "kind": "master",
+          "eyebrow": "03 / THE MASTER",
+          "headline": "WHO OWNS THE RECORDING?",
+          "body": "The master is the recorded version. A feature credit does not reveal the ownership or payment terms.",
+          "rows": [
+            [
+              "Master owner",
+              "Not confirmed"
+            ],
+            [
+              "Artist / feature deal",
+              "Not confirmed"
+            ],
+            [
+              "Recoupment terms",
+              "Not confirmed"
+            ]
+          ]
+        },
+        {
+          "kind": "takeaway",
+          "eyebrow": "04 / THE TAKEAWAY",
+          "headline": "CREDITS FIRST. NUMBERS NEXT.",
+          "body": "The FADER identifies these songs among Babyxsosa’s biggest hits. Its review does not establish track revenue, writer shares or master ownership.",
+          "rows": [
+            [
+              "Streams + observation date",
+              "Research pending"
+            ],
+            [
+              "Revenue model",
+              "Not calculated"
+            ],
+            [
+              "Artist take-home",
+              "Not established"
+            ]
+          ]
+        },
+        {
+          "kind": "geography",
+          "eyebrow": "05 / THE AUDIENCE",
+          "headline": "WHERE THEY\nLISTEN.",
+          "body": "Babyxsosa / Spotify listener geography. Country counts or shares will come from a dated Chartmetric capture.",
+          "rows": [
+            [
+              "Top country",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Second country",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Third country",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Observation / estimate status",
+              "Not captured"
+            ]
+          ]
+        },
+        {
+          "kind": "playlists",
+          "eyebrow": "06 / THE PLAYLISTS",
+          "headline": "THREE LISTS.\nONE SONG.",
+          "body": "Everywhereigo / track-specific playlist placements. Ranking metric and date will be labeled when verified.",
+          "rows": [
+            [
+              "01 / Playlist",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "02 / Playlist",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "03 / Playlist",
+              "Awaiting Chartmetric"
+            ],
+            [
+              "Song streams from these lists",
+              "Not available"
+            ]
+          ]
+        },
+        {
+          "kind": "close",
+          "eyebrow": "07 / YOUR NEXT DEEP DIVE",
+          "headline": "WHICH SONG PUT YOU ON?",
+          "body": "Save the song. Follow the credits. Tell us which breakdown you want next.",
+          "rows": []
+        }
+      ],
+      "caption": "Babyxsosa: Everywhereigo, DRAMA BABY / MALIBU. The FADER identifies these songs among Babyxsosa’s biggest hits. Its review does not establish track revenue, writer shares or master ownership. This draft separates the recording credits from the publishing and master questions. Ownership shares, revenue and artist take-home are not established by the current sources. Which song put you on?",
+      "cover_photo": {
+        "file": "assets/photos/BabyXSosa_2025.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File%3ABabyXSosa_2025.jpg",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "creator": "Hotgirl2000",
+        "reuse_status": "licensed",
+        "changes": "Cropped, desaturated and darkened for the cover; CC BY-SA adaptation follows the same license where applicable."
+      },
+      "audience_geography": {
+        "source": "Chartmetric",
+        "scope": "artist-level Spotify listeners, not song-level",
+        "platform": "Spotify",
+        "observed_at": null,
+        "estimate_status": "unknown pending source capture",
+        "countries": null,
+        "cities": null,
+        "percentage_denominator": null,
+        "status": "awaiting Claude research"
+      },
+      "playlist_analysis": {
+        "track": "Everywhereigo",
+        "scope": "exact recording, one song per ranking",
+        "source": "Chartmetric",
+        "ranking_metric": null,
+        "window": null,
+        "top_three": null,
+        "attributed_streams": null,
+        "status": "awaiting Claude research",
+        "rule": "Playlist followers, reach and estimated listeners do not establish streams attributed to this song."
+      }
+    }
+  ],
+  "schedule": {
+    "Monday": "UM01",
+    "Wednesday": "UM05",
+    "Friday": "UM06"
+  },
+  "handoff": "Claude supplies financial, Chartmetric geography and exact-track top-three playlist inputs. Codex owns design and bug fixes. Artist geography is separate from track-level playlist data. Null means unknown, never zero."
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "file": "font-00.ttf",
+    "source": "https://fonts.gstatic.com/s/anton/v27/1Ptgg87LROyAm0K0.ttf",
+    "bytes": 130324
+  },
+  {
+    "file": "font-01.ttf",
+    "source": "https://fonts.gstatic.com/s/bodonimoda/v28/aFT67PxzY382XsXX63LUYL6GYFcan6NJrKp-VPjfJMShrpsGFUt8oU7awIA.ttf",
+    "bytes": 44752
+  },
+  {
+    "file": "font-02.ttf",
+    "source": "https://fonts.gstatic.com/s/bodonimoda/v28/aFT67PxzY382XsXX63LUYL6GYFcan6NJrKp-VPjfJMShrpsGFUt8oZDdwIA.ttf",
+    "bytes": 44880
+  },
+  {
+    "file": "font-03.ttf",
+    "source": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F63fjptAgt5VM-kVkqdyU8n5ig.ttf",
+    "bytes": 128812
+  },
+  {
+    "file": "font-04.ttf",
+    "source": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6qfjptAgt5VM-kVkqdyU8n3twJ8lc.ttf",
+    "bytes": 129916
+  }
+]

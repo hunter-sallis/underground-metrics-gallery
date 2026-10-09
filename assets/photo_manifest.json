@@ -1,0 +1,74 @@
+{
+  "Che": {
+    "file": "",
+    "source_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab6761610000e5eb856122aa629701a14755ab65",
+    "license": "Typographic public cover",
+    "creator": "Portrait pending",
+    "reuse_status": "Source photo excluded from public preview; permission unresolved",
+    "changes": "No third-party portrait displayed in public cover."
+  },
+  "xaviersobased": {
+    "file": "assets/photos/Xaviersobased_2-2-23.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AXaviersobased_%282-2-23%29.jpg",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "creator": "Ninecalling",
+    "reuse_status": "licensed",
+    "changes": "Cropped, desaturated and darkened for the cover; CC BY-SA adaptation follows the same license where applicable."
+  },
+  "Nettspend": {
+    "file": "assets/photos/Nettspend.webp",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ANettspend.webp",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "creator": "@justusedd on Instagram",
+    "reuse_status": "licensed",
+    "changes": "Cropped, desaturated and darkened for the cover; CC BY-SA adaptation follows the same license where applicable."
+  },
+  "Lucy Bedroque": {
+    "file": "",
+    "source_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O",
+    "image_url": "https://image-cdn-fa.spotifycdn.com/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
+    "license": "Typographic public cover",
+    "creator": "Portrait pending",
+    "reuse_status": "Source photo excluded from public preview; permission unresolved",
+    "changes": "No third-party portrait displayed in public cover."
+  },
+  "slayr": {
+    "file": "assets/photos/Slayr_rollingloud_tristanstlws.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ASlayr_rollingloud_tristanstlws.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "creator": "Tristanstlws",
+    "reuse_status": "licensed",
+    "changes": "Cropped, desaturated and darkened for the cover; CC BY-SA adaptation follows the same license where applicable."
+  },
+  "prettifun": {
+    "file": "assets/photos/Prettifun.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3APrettifun.png",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "creator": "KyleSirTalksAlot",
+    "reuse_status": "licensed",
+    "changes": "Cropped, desaturated and darkened for the cover; CC BY-SA adaptation follows the same license where applicable."
+  },
+  "Feng": {
+    "file": "assets/photos/Feng_in_Vancouver.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AFeng_in_Vancouver.png",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "creator": "Helicoptercigarette",
+    "reuse_status": "licensed",
+    "changes": "Cropped, desaturated and darkened for the cover; CC BY-SA adaptation follows the same license where applicable."
+  },
+  "Babyxsosa": {
+    "file": "assets/photos/BabyXSosa_2025.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ABabyXSosa_2025.jpg",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "creator": "Hotgirl2000",
+    "reuse_status": "licensed",
+    "changes": "Cropped, desaturated and darkened for the cover; CC BY-SA adaptation follows the same license where applicable."
+  }
+}
