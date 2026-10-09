@@ -112,6 +112,96 @@
       "label": "DRAMA BABY / MALIBU: Spotify plays and release credits",
       "url": "https://open.spotify.com/track/0JlIREROiyPWzUNhlIpOns",
       "status": "Observed Oct 9, 2026 UTC; lifetime display count, not income. Linked release versions counted once."
+    },
+    "geo_UM01": {
+      "label": "Che — Spotify listener cities",
+      "url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF",
+      "status": "Direct Spotify About panel, read Oct 9, 2026. Artist-level trailing-28-day listeners; no country totals inferred."
+    },
+    "playlists_UMT-01": {
+      "label": "MANNEQUIN — Chartmetric playlist capture",
+      "url": "https://app.chartmetric.com/track/150305628/playlists/spotify",
+      "status": "Followers captured Oct 9, 2026; exact recording placements confirmed on Spotify. Limited query coverage; no stream attribution."
+    },
+    "geo_UM02": {
+      "label": "xaviersobased — Spotify listener cities",
+      "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd",
+      "status": "Direct Spotify About panel, read Oct 9, 2026. Artist-level trailing-28-day listeners; no country totals inferred."
+    },
+    "playlists_UMT-02": {
+      "label": "Impact (with xaviersobased) — Chartmetric playlist capture",
+      "url": "https://app.chartmetric.com/track/144908220/playlists/spotify",
+      "status": "Followers captured Oct 9, 2026; exact recording placements confirmed on Spotify. Limited query coverage; no stream attribution."
+    },
+    "geo_UM03": {
+      "label": "Nettspend — Spotify listener cities",
+      "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA",
+      "status": "Direct Spotify About panel, read Oct 9, 2026. Artist-level trailing-28-day listeners; no country totals inferred."
+    },
+    "playlists_UMT-03": {
+      "label": "KickAss (Pull Up Pls) — Chartmetric playlist capture",
+      "url": "https://app.chartmetric.com/track/172257067/playlists/spotify",
+      "status": "Followers captured Oct 9, 2026; exact recording placements confirmed on Spotify. Limited query coverage; no stream attribution."
+    },
+    "geo_UM04": {
+      "label": "Lucy Bedroque — Spotify listener cities",
+      "url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O",
+      "status": "Direct Spotify About panel, read Oct 9, 2026. Artist-level trailing-28-day listeners; no country totals inferred."
+    },
+    "playlists_UMT-04": {
+      "label": "Daytona — Chartmetric playlist capture",
+      "url": "https://app.chartmetric.com/track/161266919/playlists/spotify",
+      "status": "Followers captured Oct 9, 2026; exact recording placements confirmed on Spotify. Limited query coverage; no stream attribution."
+    },
+    "geo_UM05": {
+      "label": "slayr — Spotify listener cities",
+      "url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA",
+      "status": "Direct Spotify About panel, read Oct 9, 2026. Artist-level trailing-28-day listeners; no country totals inferred."
+    },
+    "geo_UM06": {
+      "label": "prettifun — Spotify listener cities",
+      "url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65",
+      "status": "Direct Spotify About panel, read Oct 9, 2026. Artist-level trailing-28-day listeners; no country totals inferred."
+    },
+    "playlists_UMT-05": {
+      "label": "Moon and the Stars — Chartmetric playlist capture",
+      "url": "https://app.chartmetric.com/track/166951190/playlists/spotify",
+      "status": "Followers captured Oct 9, 2026; exact recording placements confirmed on Spotify. Limited query coverage; no stream attribution."
+    },
+    "playlists_UMT-06": {
+      "label": "Pizza Time — Chartmetric playlist capture",
+      "url": "https://app.chartmetric.com/track/121329840/playlists/spotify",
+      "status": "Followers captured Oct 9, 2026; exact recording placements confirmed on Spotify. Limited query coverage; no stream attribution."
+    },
+    "geo_UM07": {
+      "label": "Feng — Spotify listener cities",
+      "url": "https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh",
+      "status": "Direct Spotify About panel, read Oct 9, 2026. Artist-level trailing-28-day listeners; no country totals inferred."
+    },
+    "playlists_UMT-07": {
+      "label": "Princess — Chartmetric playlist capture",
+      "url": "https://app.chartmetric.com/track/145586621/playlists/spotify",
+      "status": "Followers captured Oct 9, 2026; exact recording placements confirmed on Spotify. Limited query coverage; no stream attribution."
+    },
+    "playlists_UMT-08": {
+      "label": "XOXO — Chartmetric playlist capture",
+      "url": "https://app.chartmetric.com/track/148881855/playlists/spotify",
+      "status": "Followers captured Oct 9, 2026; exact recording placements confirmed on Spotify. Limited query coverage; no stream attribution."
+    },
+    "geo_UM08": {
+      "label": "Babyxsosa — Spotify listener cities",
+      "url": "https://open.spotify.com/artist/0z6XSqpMBqmhaRVWduV9HJ",
+      "status": "Direct Spotify About panel, read Oct 9, 2026. Artist-level trailing-28-day listeners; no country totals inferred."
+    },
+    "playlists_UMT-09": {
+      "label": "Everywhereigo — Chartmetric playlist capture",
+      "url": "https://app.chartmetric.com/track/28177213/playlists/spotify",
+      "status": "Followers captured Oct 9, 2026; exact recording placements confirmed on Spotify. Limited query coverage; no stream attribution."
+    },
+    "playlists_UMT-10": {
+      "label": "DRAMA BABY / MALIBU — Chartmetric playlist capture",
+      "url": "https://app.chartmetric.com/track/64207486/playlists/spotify",
+      "status": "Followers captured Oct 9, 2026; exact recording placements confirmed on Spotify. Limited query coverage; no stream attribution."
     }
   },
   "posts": [
@@ -126,7 +216,9 @@
       "day": "Monday",
       "angle": "Che × xaviersobased / confirmed shared recording credit",
       "source_ids": [
-        "UMT-01"
+        "UMT-01",
+        "geo_UM01",
+        "playlists_UMT-01"
       ],
       "recording_credits": [
         [
@@ -173,7 +265,7 @@
           }
         ]
       },
-      "status": "Evidence draft — plays and credits added; Chartmetric pending",
+      "status": "Evidence draft — plays, credits, cities and playlists sourced",
       "slides": [
         {
           "kind": "cover",
@@ -263,43 +355,43 @@
           "kind": "geography",
           "eyebrow": "05 / THE AUDIENCE",
           "headline": "WHERE THEY\nLISTEN.",
-          "body": "Che / Spotify listener geography. Country counts or shares will come from a dated Chartmetric capture.",
+          "body": "Che / artist-level Spotify monthly listeners by city. Read Oct 9, 2026; trailing 28 days. Not song-level geography.",
           "rows": [
             [
-              "Top country",
-              "Awaiting Chartmetric"
+              "Los Angeles, US",
+              "40,671 listeners"
             ],
             [
-              "Second country",
-              "Awaiting Chartmetric"
+              "New York City, US",
+              "40,623 listeners"
             ],
             [
-              "Third country",
-              "Awaiting Chartmetric"
+              "Chicago, US",
+              "35,369 listeners"
             ],
             [
-              "Observation / estimate status",
-              "Not captured"
+              "Coverage",
+              "Top 3 of 5 displayed cities"
             ]
           ]
         },
         {
           "kind": "playlists",
           "eyebrow": "06 / THE PLAYLISTS",
-          "headline": "THREE LISTS.\nONE SONG.",
-          "body": "MANNEQUIN / track-specific playlist placements. Ranking metric and date will be labeled when verified.",
+          "headline": "ON THESE\nPLAYLISTS.",
+          "body": "MANNEQUIN / ranked by playlist followers, captured Oct 9, 2026. Largest among captured, Spotify-confirmed placements; not exhaustive. Followers are not song streams.",
           "rows": [
             [
-              "01 / Playlist",
-              "Awaiting Chartmetric"
+              "01 / Pitchfork's Best New Music",
+              "176,651 followers"
             ],
             [
-              "02 / Playlist",
-              "Awaiting Chartmetric"
+              "02 / POV I Got Passed The Aux",
+              "108,422 followers"
             ],
             [
-              "03 / Playlist",
-              "Awaiting Chartmetric"
+              "03 / The Lyrical Lemonade Summer Smash 2026",
+              "65,966 followers"
             ],
             [
               "Song streams from these lists",
@@ -315,7 +407,7 @@
           "rows": []
         }
       ],
-      "caption": "Che: MANNEQUIN. Saved Spotify metadata lists Che and xaviersobased on this recording. That establishes a collaboration, not its financial split. Spotify plays, read Oct 9, 2026: MANNEQUIN 22,049,477. Publishing ownership, master ownership and private deal terms are not established. Collection registrations are not ownership or income. Whose part do you replay?",
+      "caption": "Che: MANNEQUIN. Saved Spotify metadata lists Che and xaviersobased on this recording. That establishes a collaboration, not its financial split. Spotify plays, read Oct 9, 2026: MANNEQUIN 22,049,477. Publishing ownership, master ownership and private deal terms are not established. Collection registrations are not ownership or income. Whose part do you replay? Artist-level listener geography: Spotify, read Oct 9, 2026. Playlist ranking: Chartmetric follower snapshots, placements verified on Spotify; limited coverage, no song-stream attribution.",
       "cover_photo": {
         "file": "assets/photos/che.jpg",
         "source_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF",
@@ -328,26 +420,156 @@
         "preview_note": "User requested portrait restoration in the public gallery preview; reuse permission remains unresolved."
       },
       "audience_geography": {
-        "source": "Chartmetric",
-        "scope": "artist-level Spotify listeners, not song-level",
+        "source": "Spotify artist About panel; Chartmetric cross-check",
+        "scope": "artist-level; not selected-song geography",
         "platform": "Spotify",
-        "observed_at": null,
-        "estimate_status": "unknown pending source capture",
+        "observed_at": "2026-10-09T08:51:11.625Z",
+        "metric": "monthly listeners by city",
+        "window": "trailing 28 days",
+        "estimate_status": "direct Spotify display counts",
+        "cities": [
+          {
+            "rank": 1,
+            "city": "Los Angeles",
+            "country_code": "US",
+            "monthly_listeners": 40671,
+            "estimated": false
+          },
+          {
+            "rank": 2,
+            "city": "New York City",
+            "country_code": "US",
+            "monthly_listeners": 40623,
+            "estimated": false
+          },
+          {
+            "rank": 3,
+            "city": "Chicago",
+            "country_code": "US",
+            "monthly_listeners": 35369,
+            "estimated": false
+          }
+        ],
         "countries": null,
-        "cities": null,
         "percentage_denominator": null,
-        "status": "awaiting Claude research"
+        "source_url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF",
+        "status": "captured Oct 9, 2026"
       },
       "playlist_analysis": {
         "track": "MANNEQUIN",
-        "scope": "exact recording, one song per ranking",
-        "source": "Chartmetric",
-        "ranking_metric": null,
-        "window": null,
-        "top_three": null,
+        "source": "Chartmetric, placement verified on Spotify",
+        "scope": "exact recording; one song per slide ranking",
+        "ranking_metric": "playlist followers captured Oct 9, 2026",
+        "window": "snapshot",
+        "top_three": [
+          {
+            "rank": 1,
+            "name": "Pitchfork's Best New Music",
+            "name_at_chartmetric_capture": "Pitchfork's Best New Music",
+            "curator": "Pitchfork",
+            "spotify_playlist_id": "7q503YgioHAbo1iOIa67M8",
+            "url": "https://open.spotify.com/playlist/7q503YgioHAbo1iOIa67M8",
+            "followers": 176651,
+            "followers_captured_at_utc": "2026-10-09T08:46:28.556Z",
+            "verified_at_utc": "2026-10-09T17:20:11Z",
+            "spotify_track_id_found": "4BOZwlrJLGTPmePx9mM9pu",
+            "recording_identity": "canonical",
+            "note": null,
+            "attributed_streams": null
+          },
+          {
+            "rank": 2,
+            "name": "POV I Got Passed The Aux",
+            "name_at_chartmetric_capture": "POV I Got Passed The Aux",
+            "curator": "Masked Mortal Music",
+            "spotify_playlist_id": "3gpvqRYgYHJQDSj0ryrKB6",
+            "url": "https://open.spotify.com/playlist/3gpvqRYgYHJQDSj0ryrKB6",
+            "followers": 108422,
+            "followers_captured_at_utc": "2026-10-09T08:46:28.556Z",
+            "verified_at_utc": "2026-10-09T17:20:12Z",
+            "spotify_track_id_found": "4BOZwlrJLGTPmePx9mM9pu",
+            "recording_identity": "canonical",
+            "note": null,
+            "attributed_streams": null
+          },
+          {
+            "rank": 3,
+            "name": "The Lyrical Lemonade Summer Smash 2026",
+            "name_at_chartmetric_capture": "The Lyrical Lemonade Summer Smash 2026",
+            "curator": "Lyrical Lemonade",
+            "spotify_playlist_id": "5UuPeWDR2I8a8pORvW9vmr",
+            "url": "https://open.spotify.com/playlist/5UuPeWDR2I8a8pORvW9vmr",
+            "followers": 65966,
+            "followers_captured_at_utc": "2026-10-09T08:46:28.556Z",
+            "verified_at_utc": "2026-10-09T17:20:13Z",
+            "spotify_track_id_found": "4BOZwlrJLGTPmePx9mM9pu",
+            "recording_identity": "canonical",
+            "note": null,
+            "attributed_streams": null
+          }
+        ],
+        "recordings": [
+          {
+            "track_id": "UMT-01",
+            "title": "MANNEQUIN",
+            "spotify_track_id": "4BOZwlrJLGTPmePx9mM9pu",
+            "isrc": "QZJ842503225",
+            "source_url": "https://app.chartmetric.com/track/150305628/playlists/spotify",
+            "top_three": [
+              {
+                "rank": 1,
+                "name": "Pitchfork's Best New Music",
+                "name_at_chartmetric_capture": "Pitchfork's Best New Music",
+                "curator": "Pitchfork",
+                "spotify_playlist_id": "7q503YgioHAbo1iOIa67M8",
+                "url": "https://open.spotify.com/playlist/7q503YgioHAbo1iOIa67M8",
+                "followers": 176651,
+                "followers_captured_at_utc": "2026-10-09T08:46:28.556Z",
+                "verified_at_utc": "2026-10-09T17:20:11Z",
+                "spotify_track_id_found": "4BOZwlrJLGTPmePx9mM9pu",
+                "recording_identity": "canonical",
+                "note": null,
+                "attributed_streams": null
+              },
+              {
+                "rank": 2,
+                "name": "POV I Got Passed The Aux",
+                "name_at_chartmetric_capture": "POV I Got Passed The Aux",
+                "curator": "Masked Mortal Music",
+                "spotify_playlist_id": "3gpvqRYgYHJQDSj0ryrKB6",
+                "url": "https://open.spotify.com/playlist/3gpvqRYgYHJQDSj0ryrKB6",
+                "followers": 108422,
+                "followers_captured_at_utc": "2026-10-09T08:46:28.556Z",
+                "verified_at_utc": "2026-10-09T17:20:12Z",
+                "spotify_track_id_found": "4BOZwlrJLGTPmePx9mM9pu",
+                "recording_identity": "canonical",
+                "note": null,
+                "attributed_streams": null
+              },
+              {
+                "rank": 3,
+                "name": "The Lyrical Lemonade Summer Smash 2026",
+                "name_at_chartmetric_capture": "The Lyrical Lemonade Summer Smash 2026",
+                "curator": "Lyrical Lemonade",
+                "spotify_playlist_id": "5UuPeWDR2I8a8pORvW9vmr",
+                "url": "https://open.spotify.com/playlist/5UuPeWDR2I8a8pORvW9vmr",
+                "followers": 65966,
+                "followers_captured_at_utc": "2026-10-09T08:46:28.556Z",
+                "verified_at_utc": "2026-10-09T17:20:13Z",
+                "spotify_track_id_found": "4BOZwlrJLGTPmePx9mM9pu",
+                "recording_identity": "canonical",
+                "note": null,
+                "attributed_streams": null
+              }
+            ],
+            "metric": "Chartmetric playlist followers",
+            "ranking_scope": "Largest among captured, Spotify-confirmed eligible placements; not exhaustive",
+            "attributed_streams": null
+          }
+        ],
         "attributed_streams": null,
-        "status": "awaiting Claude research",
-        "rule": "Playlist followers, reach and estimated listeners do not establish streams attributed to this song."
+        "status": "verified placements; limited capture coverage",
+        "rule": "Followers measure playlist size, not song streams or fan interaction. Personalized playlists excluded; confirmed same-ID renames retained."
       },
       "research_track_ids": [
         "UMT-01"
@@ -367,7 +589,10 @@
       "source_ids": [
         "impact",
         "UMT-01",
-        "UMT-02"
+        "UMT-02",
+        "geo_UM02",
+        "playlists_UMT-01",
+        "playlists_UMT-02"
       ],
       "recording_credits": [
         [
@@ -432,7 +657,7 @@
           }
         ]
       },
-      "status": "Evidence draft — plays and credits added; Chartmetric pending",
+      "status": "Evidence draft — plays, credits, cities and playlists sourced",
       "slides": [
         {
           "kind": "cover",
@@ -546,43 +771,43 @@
           "kind": "geography",
           "eyebrow": "05 / THE AUDIENCE",
           "headline": "WHERE THEY\nLISTEN.",
-          "body": "xaviersobased / Spotify listener geography. Country counts or shares will come from a dated Chartmetric capture.",
+          "body": "xaviersobased / artist-level Spotify monthly listeners by city. Read Oct 9, 2026; trailing 28 days. Not song-level geography.",
           "rows": [
             [
-              "Top country",
-              "Awaiting Chartmetric"
+              "Los Angeles, US",
+              "37,084 listeners"
             ],
             [
-              "Second country",
-              "Awaiting Chartmetric"
+              "New York City, US",
+              "33,849 listeners"
             ],
             [
-              "Third country",
-              "Awaiting Chartmetric"
+              "Chicago, US",
+              "28,978 listeners"
             ],
             [
-              "Observation / estimate status",
-              "Not captured"
+              "Coverage",
+              "Top 3 of 5 displayed cities"
             ]
           ]
         },
         {
           "kind": "playlists",
           "eyebrow": "06 / THE PLAYLISTS",
-          "headline": "THREE LISTS.\nONE SONG.",
-          "body": "MANNEQUIN / track-specific playlist placements. Ranking metric and date will be labeled when verified.",
+          "headline": "ON THESE\nPLAYLISTS.",
+          "body": "MANNEQUIN / ranked by playlist followers, captured Oct 9, 2026. Largest among captured, Spotify-confirmed placements; not exhaustive. Followers are not song streams.",
           "rows": [
             [
-              "01 / Playlist",
-              "Awaiting Chartmetric"
+              "01 / Pitchfork's Best New Music",
+              "176,651 followers"
             ],
             [
-              "02 / Playlist",
-              "Awaiting Chartmetric"
+              "02 / POV I Got Passed The Aux",
+              "108,422 followers"
             ],
             [
-              "03 / Playlist",
-              "Awaiting Chartmetric"
+              "03 / The Lyrical Lemonade Summer Smash 2026",
+              "65,966 followers"
             ],
             [
               "Song streams from these lists",
@@ -598,7 +823,7 @@
           "rows": []
         }
       ],
-      "caption": "xaviersobased: MANNEQUIN, Impact. MANNEQUIN and Impact connect Xavier with Che and Nettspend. The official Impact link confirms both names. Spotify plays, read Oct 9, 2026: MANNEQUIN 22,049,477; Impact 17,548,303. Publishing ownership, master ownership and private deal terms are not established. Collection registrations are not ownership or income. Mannequin or impact?",
+      "caption": "xaviersobased: MANNEQUIN, Impact. MANNEQUIN and Impact connect Xavier with Che and Nettspend. The official Impact link confirms both names. Spotify plays, read Oct 9, 2026: MANNEQUIN 22,049,477; Impact 17,548,303. Publishing ownership, master ownership and private deal terms are not established. Collection registrations are not ownership or income. Mannequin or impact? Artist-level listener geography: Spotify, read Oct 9, 2026. Playlist ranking: Chartmetric follower snapshots, placements verified on Spotify; limited coverage, no song-stream attribution.",
       "cover_photo": {
         "file": "assets/photos/Xaviersobased_2-2-23.jpg",
         "source_url": "https://commons.wikimedia.org/wiki/File%3AXaviersobased_%282-2-23%29.jpg",
@@ -609,26 +834,213 @@
         "changes": "Cropped, desaturated and darkened for the cover; CC BY-SA adaptation follows the same license where applicable."
       },
       "audience_geography": {
-        "source": "Chartmetric",
-        "scope": "artist-level Spotify listeners, not song-level",
+        "source": "Spotify artist About panel; Chartmetric cross-check",
+        "scope": "artist-level; not selected-song geography",
         "platform": "Spotify",
-        "observed_at": null,
-        "estimate_status": "unknown pending source capture",
+        "observed_at": "2026-10-09T08:51:45.373Z",
+        "metric": "monthly listeners by city",
+        "window": "trailing 28 days",
+        "estimate_status": "direct Spotify display counts",
+        "cities": [
+          {
+            "rank": 1,
+            "city": "Los Angeles",
+            "country_code": "US",
+            "monthly_listeners": 37084,
+            "estimated": false
+          },
+          {
+            "rank": 2,
+            "city": "New York City",
+            "country_code": "US",
+            "monthly_listeners": 33849,
+            "estimated": false
+          },
+          {
+            "rank": 3,
+            "city": "Chicago",
+            "country_code": "US",
+            "monthly_listeners": 28978,
+            "estimated": false
+          }
+        ],
         "countries": null,
-        "cities": null,
         "percentage_denominator": null,
-        "status": "awaiting Claude research"
+        "source_url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd",
+        "status": "captured Oct 9, 2026"
       },
       "playlist_analysis": {
         "track": "MANNEQUIN",
-        "scope": "exact recording, one song per ranking",
-        "source": "Chartmetric",
-        "ranking_metric": null,
-        "window": null,
-        "top_three": null,
+        "source": "Chartmetric, placement verified on Spotify",
+        "scope": "exact recording; one song per slide ranking",
+        "ranking_metric": "playlist followers captured Oct 9, 2026",
+        "window": "snapshot",
+        "top_three": [
+          {
+            "rank": 1,
+            "name": "Pitchfork's Best New Music",
+            "name_at_chartmetric_capture": "Pitchfork's Best New Music",
+            "curator": "Pitchfork",
+            "spotify_playlist_id": "7q503YgioHAbo1iOIa67M8",
+            "url": "https://open.spotify.com/playlist/7q503YgioHAbo1iOIa67M8",
+            "followers": 176651,
+            "followers_captured_at_utc": "2026-10-09T08:46:28.556Z",
+            "verified_at_utc": "2026-10-09T17:20:11Z",
+            "spotify_track_id_found": "4BOZwlrJLGTPmePx9mM9pu",
+            "recording_identity": "canonical",
+            "note": null,
+            "attributed_streams": null
+          },
+          {
+            "rank": 2,
+            "name": "POV I Got Passed The Aux",
+            "name_at_chartmetric_capture": "POV I Got Passed The Aux",
+            "curator": "Masked Mortal Music",
+            "spotify_playlist_id": "3gpvqRYgYHJQDSj0ryrKB6",
+            "url": "https://open.spotify.com/playlist/3gpvqRYgYHJQDSj0ryrKB6",
+            "followers": 108422,
+            "followers_captured_at_utc": "2026-10-09T08:46:28.556Z",
+            "verified_at_utc": "2026-10-09T17:20:12Z",
+            "spotify_track_id_found": "4BOZwlrJLGTPmePx9mM9pu",
+            "recording_identity": "canonical",
+            "note": null,
+            "attributed_streams": null
+          },
+          {
+            "rank": 3,
+            "name": "The Lyrical Lemonade Summer Smash 2026",
+            "name_at_chartmetric_capture": "The Lyrical Lemonade Summer Smash 2026",
+            "curator": "Lyrical Lemonade",
+            "spotify_playlist_id": "5UuPeWDR2I8a8pORvW9vmr",
+            "url": "https://open.spotify.com/playlist/5UuPeWDR2I8a8pORvW9vmr",
+            "followers": 65966,
+            "followers_captured_at_utc": "2026-10-09T08:46:28.556Z",
+            "verified_at_utc": "2026-10-09T17:20:13Z",
+            "spotify_track_id_found": "4BOZwlrJLGTPmePx9mM9pu",
+            "recording_identity": "canonical",
+            "note": null,
+            "attributed_streams": null
+          }
+        ],
+        "recordings": [
+          {
+            "track_id": "UMT-01",
+            "title": "MANNEQUIN",
+            "spotify_track_id": "4BOZwlrJLGTPmePx9mM9pu",
+            "isrc": "QZJ842503225",
+            "source_url": "https://app.chartmetric.com/track/150305628/playlists/spotify",
+            "top_three": [
+              {
+                "rank": 1,
+                "name": "Pitchfork's Best New Music",
+                "name_at_chartmetric_capture": "Pitchfork's Best New Music",
+                "curator": "Pitchfork",
+                "spotify_playlist_id": "7q503YgioHAbo1iOIa67M8",
+                "url": "https://open.spotify.com/playlist/7q503YgioHAbo1iOIa67M8",
+                "followers": 176651,
+                "followers_captured_at_utc": "2026-10-09T08:46:28.556Z",
+                "verified_at_utc": "2026-10-09T17:20:11Z",
+                "spotify_track_id_found": "4BOZwlrJLGTPmePx9mM9pu",
+                "recording_identity": "canonical",
+                "note": null,
+                "attributed_streams": null
+              },
+              {
+                "rank": 2,
+                "name": "POV I Got Passed The Aux",
+                "name_at_chartmetric_capture": "POV I Got Passed The Aux",
+                "curator": "Masked Mortal Music",
+                "spotify_playlist_id": "3gpvqRYgYHJQDSj0ryrKB6",
+                "url": "https://open.spotify.com/playlist/3gpvqRYgYHJQDSj0ryrKB6",
+                "followers": 108422,
+                "followers_captured_at_utc": "2026-10-09T08:46:28.556Z",
+                "verified_at_utc": "2026-10-09T17:20:12Z",
+                "spotify_track_id_found": "4BOZwlrJLGTPmePx9mM9pu",
+                "recording_identity": "canonical",
+                "note": null,
+                "attributed_streams": null
+              },
+              {
+                "rank": 3,
+                "name": "The Lyrical Lemonade Summer Smash 2026",
+                "name_at_chartmetric_capture": "The Lyrical Lemonade Summer Smash 2026",
+                "curator": "Lyrical Lemonade",
+                "spotify_playlist_id": "5UuPeWDR2I8a8pORvW9vmr",
+                "url": "https://open.spotify.com/playlist/5UuPeWDR2I8a8pORvW9vmr",
+                "followers": 65966,
+                "followers_captured_at_utc": "2026-10-09T08:46:28.556Z",
+                "verified_at_utc": "2026-10-09T17:20:13Z",
+                "spotify_track_id_found": "4BOZwlrJLGTPmePx9mM9pu",
+                "recording_identity": "canonical",
+                "note": null,
+                "attributed_streams": null
+              }
+            ],
+            "metric": "Chartmetric playlist followers",
+            "ranking_scope": "Largest among captured, Spotify-confirmed eligible placements; not exhaustive",
+            "attributed_streams": null
+          },
+          {
+            "track_id": "UMT-02",
+            "title": "Impact (with xaviersobased)",
+            "spotify_track_id": "2xTk9wtJ6mWf7YV6ppmdCK",
+            "isrc": "USUG12502061",
+            "source_url": "https://app.chartmetric.com/track/144908220/playlists/spotify",
+            "top_three": [
+              {
+                "rank": 1,
+                "name": "TikTok songs 2026",
+                "name_at_chartmetric_capture": "TikTok songs 2026",
+                "curator": "mitsu08",
+                "spotify_playlist_id": "00dvhV06dNo0l7wHEXHV8U",
+                "url": "https://open.spotify.com/playlist/00dvhV06dNo0l7wHEXHV8U",
+                "followers": 91974,
+                "followers_captured_at_utc": "2026-10-09T09:23:06.332Z",
+                "verified_at_utc": "2026-10-09T17:20:14Z",
+                "spotify_track_id_found": "2xTk9wtJ6mWf7YV6ppmdCK",
+                "recording_identity": "canonical",
+                "note": null,
+                "attributed_streams": null
+              },
+              {
+                "rank": 2,
+                "name": "Rap Rising | New Rap Releases | Hip Hop Bangers",
+                "name_at_chartmetric_capture": "Rap Rising | New Rap Releases | Hip Hop Bangers",
+                "curator": "Topsify US",
+                "spotify_playlist_id": "6Q2ddhGfDtnRD2cpAo3sCl",
+                "url": "https://open.spotify.com/playlist/6Q2ddhGfDtnRD2cpAo3sCl",
+                "followers": 36081,
+                "followers_captured_at_utc": "2026-10-09T09:23:06.332Z",
+                "verified_at_utc": "2026-10-09T17:20:15Z",
+                "spotify_track_id_found": "2xTk9wtJ6mWf7YV6ppmdCK",
+                "recording_identity": "canonical",
+                "note": null,
+                "attributed_streams": null
+              },
+              {
+                "rank": 3,
+                "name": "thirst trap😭😭",
+                "name_at_chartmetric_capture": "thirst trap😭😭",
+                "curator": "sadaf",
+                "spotify_playlist_id": "7z35FZhHarXwcd5EAurKhO",
+                "url": "https://open.spotify.com/playlist/7z35FZhHarXwcd5EAurKhO",
+                "followers": 31986,
+                "followers_captured_at_utc": "2026-10-09T09:23:06.332Z",
+                "verified_at_utc": "2026-10-09T17:20:22Z",
+                "spotify_track_id_found": "2xTk9wtJ6mWf7YV6ppmdCK",
+                "recording_identity": "canonical",
+                "note": null,
+                "attributed_streams": null
+              }
+            ],
+            "metric": "Chartmetric playlist followers",
+            "ranking_scope": "Largest among captured, Spotify-confirmed eligible placements; not exhaustive",
+            "attributed_streams": null
+          }
+        ],
         "attributed_streams": null,
-        "status": "awaiting Claude research",
-        "rule": "Playlist followers, reach and estimated listeners do not establish streams attributed to this song."
+        "status": "verified placements; limited capture coverage",
+        "rule": "Followers measure playlist size, not song streams or fan interaction. Personalized playlists excluded; confirmed same-ID renames retained."
       },
       "research_track_ids": [
         "UMT-01",
@@ -649,7 +1061,10 @@
       "source_ids": [
         "impact",
         "UMT-03",
-        "UMT-02"
+        "UMT-02",
+        "geo_UM03",
+        "playlists_UMT-03",
+        "playlists_UMT-02"
       ],
       "recording_credits": [
         [
@@ -714,7 +1129,7 @@
           }
         ]
       },
-      "status": "Evidence draft — plays and credits added; Chartmetric pending",
+      "status": "Evidence draft — plays, credits, cities and playlists sourced",
       "slides": [
         {
           "kind": "cover",
@@ -828,43 +1243,43 @@
           "kind": "geography",
           "eyebrow": "05 / THE AUDIENCE",
           "headline": "WHERE THEY\nLISTEN.",
-          "body": "Nettspend / Spotify listener geography. Country counts or shares will come from a dated Chartmetric capture.",
+          "body": "Nettspend / artist-level Spotify monthly listeners by city. Read Oct 9, 2026; trailing 28 days. Not song-level geography.",
           "rows": [
             [
-              "Top country",
-              "Awaiting Chartmetric"
+              "Los Angeles, US",
+              "47,430 listeners"
             ],
             [
-              "Second country",
-              "Awaiting Chartmetric"
+              "New York City, US",
+              "41,060 listeners"
             ],
             [
-              "Third country",
-              "Awaiting Chartmetric"
+              "Chicago, US",
+              "37,056 listeners"
             ],
             [
-              "Observation / estimate status",
-              "Not captured"
+              "Coverage",
+              "Top 3 of 5 displayed cities"
             ]
           ]
         },
         {
           "kind": "playlists",
           "eyebrow": "06 / THE PLAYLISTS",
-          "headline": "THREE LISTS.\nONE SONG.",
-          "body": "KickAss (Pull Up Pls) / track-specific playlist placements. Ranking metric and date will be labeled when verified.",
+          "headline": "ON THESE\nPLAYLISTS.",
+          "body": "KickAss (Pull Up Pls) / ranked by playlist followers, captured Oct 9, 2026. Largest among captured, Spotify-confirmed placements; not exhaustive. Followers are not song streams.",
           "rows": [
             [
-              "01 / Playlist",
-              "Awaiting Chartmetric"
+              "01 / UNDERGROUND RAP 2026",
+              "23,545 followers"
             ],
             [
-              "02 / Playlist",
-              "Awaiting Chartmetric"
+              "02 / 🔥",
+              "9,503 followers"
             ],
             [
-              "03 / Playlist",
-              "Awaiting Chartmetric"
+              "03 / INVISIBLE - Playboi Carti",
+              "8,669 followers"
             ],
             [
               "Song streams from these lists",
@@ -880,7 +1295,7 @@
           "rows": []
         }
       ],
-      "caption": "Nettspend: KickAss (Pull Up Pls), Impact. Both recordings credit two main artists. Billing does not reveal a fee or royalty share. Spotify plays, read Oct 9, 2026: KickAss (Pull Up Pls) 1,989,547; Impact 17,548,303. Publishing ownership, master ownership and private deal terms are not established. Collection registrations are not ownership or income. Which collab hits harder?",
+      "caption": "Nettspend: KickAss (Pull Up Pls), Impact. Both recordings credit two main artists. Billing does not reveal a fee or royalty share. Spotify plays, read Oct 9, 2026: KickAss (Pull Up Pls) 1,989,547; Impact 17,548,303. Publishing ownership, master ownership and private deal terms are not established. Collection registrations are not ownership or income. Which collab hits harder? Artist-level listener geography: Spotify, read Oct 9, 2026. Playlist ranking: Chartmetric follower snapshots, placements verified on Spotify; limited coverage, no song-stream attribution.",
       "cover_photo": {
         "file": "assets/photos/Nettspend.webp",
         "source_url": "https://commons.wikimedia.org/wiki/File%3ANettspend.webp",
@@ -894,26 +1309,213 @@
         "preview_note": "User requested portrait restoration in the public gallery preview; reuse permission remains unresolved."
       },
       "audience_geography": {
-        "source": "Chartmetric",
-        "scope": "artist-level Spotify listeners, not song-level",
+        "source": "Spotify artist About panel; Chartmetric cross-check",
+        "scope": "artist-level; not selected-song geography",
         "platform": "Spotify",
-        "observed_at": null,
-        "estimate_status": "unknown pending source capture",
+        "observed_at": "2026-10-09T08:51:54.611Z",
+        "metric": "monthly listeners by city",
+        "window": "trailing 28 days",
+        "estimate_status": "direct Spotify display counts",
+        "cities": [
+          {
+            "rank": 1,
+            "city": "Los Angeles",
+            "country_code": "US",
+            "monthly_listeners": 47430,
+            "estimated": false
+          },
+          {
+            "rank": 2,
+            "city": "New York City",
+            "country_code": "US",
+            "monthly_listeners": 41060,
+            "estimated": false
+          },
+          {
+            "rank": 3,
+            "city": "Chicago",
+            "country_code": "US",
+            "monthly_listeners": 37056,
+            "estimated": false
+          }
+        ],
         "countries": null,
-        "cities": null,
         "percentage_denominator": null,
-        "status": "awaiting Claude research"
+        "source_url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA",
+        "status": "captured Oct 9, 2026"
       },
       "playlist_analysis": {
         "track": "KickAss (Pull Up Pls)",
-        "scope": "exact recording, one song per ranking",
-        "source": "Chartmetric",
-        "ranking_metric": null,
-        "window": null,
-        "top_three": null,
+        "source": "Chartmetric, placement verified on Spotify",
+        "scope": "exact recording; one song per slide ranking",
+        "ranking_metric": "playlist followers captured Oct 9, 2026",
+        "window": "snapshot",
+        "top_three": [
+          {
+            "rank": 1,
+            "name": "UNDERGROUND RAP 2026",
+            "name_at_chartmetric_capture": "UNDERGROUND RAP 2026",
+            "curator": "MMM4",
+            "spotify_playlist_id": "4RZdbJh7v5Xhuks7rHmFIx",
+            "url": "https://open.spotify.com/playlist/4RZdbJh7v5Xhuks7rHmFIx",
+            "followers": 23545,
+            "followers_captured_at_utc": "2026-10-09T09:16:34.818Z",
+            "verified_at_utc": "2026-10-09T17:20:27Z",
+            "spotify_track_id_found": "7BZaBWzwPGRRswyT5KHSbK",
+            "recording_identity": "canonical",
+            "note": null,
+            "attributed_streams": null
+          },
+          {
+            "rank": 2,
+            "name": "🔥",
+            "name_at_chartmetric_capture": "🔥",
+            "curator": "Joviss",
+            "spotify_playlist_id": "2cDPqWbtrciTkSS4xMhUyu",
+            "url": "https://open.spotify.com/playlist/2cDPqWbtrciTkSS4xMhUyu",
+            "followers": 9503,
+            "followers_captured_at_utc": "2026-10-09T09:16:34.818Z",
+            "verified_at_utc": "2026-10-09T17:20:30Z",
+            "spotify_track_id_found": "7BZaBWzwPGRRswyT5KHSbK",
+            "recording_identity": "canonical",
+            "note": null,
+            "attributed_streams": null
+          },
+          {
+            "rank": 3,
+            "name": "INVISIBLE - Playboi Carti",
+            "name_at_chartmetric_capture": "trip2japan - Sllime6",
+            "curator": "Victor",
+            "spotify_playlist_id": "6JEmZmoU3cPgXqlza2TFzW",
+            "url": "https://open.spotify.com/playlist/6JEmZmoU3cPgXqlza2TFzW",
+            "followers": 8669,
+            "followers_captured_at_utc": "2026-10-09T09:16:34.818Z",
+            "verified_at_utc": "2026-10-09T17:20:54Z",
+            "spotify_track_id_found": "7BZaBWzwPGRRswyT5KHSbK",
+            "recording_identity": "canonical",
+            "note": "Playlist name on Spotify is 'INVISIBLE - Playboi Carti'; Chartmetric listed it as 'trip2japan - Sllime6'. Same Spotify playlist ID (taken from Chartmetric's link) and same curator (Victor); read as a rename.",
+            "attributed_streams": null
+          }
+        ],
+        "recordings": [
+          {
+            "track_id": "UMT-03",
+            "title": "KickAss (Pull Up Pls)",
+            "spotify_track_id": "7BZaBWzwPGRRswyT5KHSbK",
+            "isrc": "QZJ842611380",
+            "source_url": "https://app.chartmetric.com/track/172257067/playlists/spotify",
+            "top_three": [
+              {
+                "rank": 1,
+                "name": "UNDERGROUND RAP 2026",
+                "name_at_chartmetric_capture": "UNDERGROUND RAP 2026",
+                "curator": "MMM4",
+                "spotify_playlist_id": "4RZdbJh7v5Xhuks7rHmFIx",
+                "url": "https://open.spotify.com/playlist/4RZdbJh7v5Xhuks7rHmFIx",
+                "followers": 23545,
+                "followers_captured_at_utc": "2026-10-09T09:16:34.818Z",
+                "verified_at_utc": "2026-10-09T17:20:27Z",
+                "spotify_track_id_found": "7BZaBWzwPGRRswyT5KHSbK",
+                "recording_identity": "canonical",
+                "note": null,
+                "attributed_streams": null
+              },
+              {
+                "rank": 2,
+                "name": "🔥",
+                "name_at_chartmetric_capture": "🔥",
+                "curator": "Joviss",
+                "spotify_playlist_id": "2cDPqWbtrciTkSS4xMhUyu",
+                "url": "https://open.spotify.com/playlist/2cDPqWbtrciTkSS4xMhUyu",
+                "followers": 9503,
+                "followers_captured_at_utc": "2026-10-09T09:16:34.818Z",
+                "verified_at_utc": "2026-10-09T17:20:30Z",
+                "spotify_track_id_found": "7BZaBWzwPGRRswyT5KHSbK",
+                "recording_identity": "canonical",
+                "note": null,
+                "attributed_streams": null
+              },
+              {
+                "rank": 3,
+                "name": "INVISIBLE - Playboi Carti",
+                "name_at_chartmetric_capture": "trip2japan - Sllime6",
+                "curator": "Victor",
+                "spotify_playlist_id": "6JEmZmoU3cPgXqlza2TFzW",
+                "url": "https://open.spotify.com/playlist/6JEmZmoU3cPgXqlza2TFzW",
+                "followers": 8669,
+                "followers_captured_at_utc": "2026-10-09T09:16:34.818Z",
+                "verified_at_utc": "2026-10-09T17:20:54Z",
+                "spotify_track_id_found": "7BZaBWzwPGRRswyT5KHSbK",
+                "recording_identity": "canonical",
+                "note": "Playlist name on Spotify is 'INVISIBLE - Playboi Carti'; Chartmetric listed it as 'trip2japan - Sllime6'. Same Spotify playlist ID (taken from Chartmetric's link) and same curator (Victor); read as a rename.",
+                "attributed_streams": null
+              }
+            ],
+            "metric": "Chartmetric playlist followers",
+            "ranking_scope": "Largest among captured, Spotify-confirmed eligible placements; not exhaustive",
+            "attributed_streams": null
+          },
+          {
+            "track_id": "UMT-02",
+            "title": "Impact (with xaviersobased)",
+            "spotify_track_id": "2xTk9wtJ6mWf7YV6ppmdCK",
+            "isrc": "USUG12502061",
+            "source_url": "https://app.chartmetric.com/track/144908220/playlists/spotify",
+            "top_three": [
+              {
+                "rank": 1,
+                "name": "TikTok songs 2026",
+                "name_at_chartmetric_capture": "TikTok songs 2026",
+                "curator": "mitsu08",
+                "spotify_playlist_id": "00dvhV06dNo0l7wHEXHV8U",
+                "url": "https://open.spotify.com/playlist/00dvhV06dNo0l7wHEXHV8U",
+                "followers": 91974,
+                "followers_captured_at_utc": "2026-10-09T09:23:06.332Z",
+                "verified_at_utc": "2026-10-09T17:20:14Z",
+                "spotify_track_id_found": "2xTk9wtJ6mWf7YV6ppmdCK",
+                "recording_identity": "canonical",
+                "note": null,
+                "attributed_streams": null
+              },
+              {
+                "rank": 2,
+                "name": "Rap Rising | New Rap Releases | Hip Hop Bangers",
+                "name_at_chartmetric_capture": "Rap Rising | New Rap Releases | Hip Hop Bangers",
+                "curator": "Topsify US",
+                "spotify_playlist_id": "6Q2ddhGfDtnRD2cpAo3sCl",
+                "url": "https://open.spotify.com/playlist/6Q2ddhGfDtnRD2cpAo3sCl",
+                "followers": 36081,
+                "followers_captured_at_utc": "2026-10-09T09:23:06.332Z",
+                "verified_at_utc": "2026-10-09T17:20:15Z",
+                "spotify_track_id_found": "2xTk9wtJ6mWf7YV6ppmdCK",
+                "recording_identity": "canonical",
+                "note": null,
+                "attributed_streams": null
+              },
+              {
+                "rank": 3,
+                "name": "thirst trap😭😭",
+                "name_at_chartmetric_capture": "thirst trap😭😭",
+                "curator": "sadaf",
+                "spotify_playlist_id": "7z35FZhHarXwcd5EAurKhO",
+                "url": "https://open.spotify.com/playlist/7z35FZhHarXwcd5EAurKhO",
+                "followers": 31986,
+                "followers_captured_at_utc": "2026-10-09T09:23:06.332Z",
+                "verified_at_utc": "2026-10-09T17:20:22Z",
+                "spotify_track_id_found": "2xTk9wtJ6mWf7YV6ppmdCK",
+                "recording_identity": "canonical",
+                "note": null,
+                "attributed_streams": null
+              }
+            ],
+            "metric": "Chartmetric playlist followers",
+            "ranking_scope": "Largest among captured, Spotify-confirmed eligible placements; not exhaustive",
+            "attributed_streams": null
+          }
+        ],
         "attributed_streams": null,
-        "status": "awaiting Claude research",
-        "rule": "Playlist followers, reach and estimated listeners do not establish streams attributed to this song."
+        "status": "verified placements; limited capture coverage",
+        "rule": "Followers measure playlist size, not song streams or fan interaction. Personalized playlists excluded; confirmed same-ID renames retained."
       },
       "research_track_ids": [
         "UMT-03",
@@ -932,7 +1534,9 @@
       "angle": "Recording credits",
       "source_ids": [
         "daytona",
-        "UMT-04"
+        "UMT-04",
+        "geo_UM04",
+        "playlists_UMT-04"
       ],
       "recording_credits": [
         [
@@ -979,7 +1583,7 @@
           }
         ]
       },
-      "status": "Evidence draft — plays and credits added; Chartmetric pending",
+      "status": "Evidence draft — plays, credits, cities and playlists sourced",
       "slides": [
         {
           "kind": "cover",
@@ -1069,43 +1673,43 @@
           "kind": "geography",
           "eyebrow": "05 / THE AUDIENCE",
           "headline": "WHERE THEY\nLISTEN.",
-          "body": "Lucy Bedroque / Spotify listener geography. Country counts or shares will come from a dated Chartmetric capture.",
+          "body": "Lucy Bedroque / artist-level Spotify monthly listeners by city. Read Oct 9, 2026; trailing 28 days. Not song-level geography.",
           "rows": [
             [
-              "Top country",
-              "Awaiting Chartmetric"
+              "Los Angeles, US",
+              "27,602 listeners"
             ],
             [
-              "Second country",
-              "Awaiting Chartmetric"
+              "New York City, US",
+              "25,709 listeners"
             ],
             [
-              "Third country",
-              "Awaiting Chartmetric"
+              "Chicago, US",
+              "20,212 listeners"
             ],
             [
-              "Observation / estimate status",
-              "Not captured"
+              "Coverage",
+              "Top 3 of 5 displayed cities"
             ]
           ]
         },
         {
           "kind": "playlists",
           "eyebrow": "06 / THE PLAYLISTS",
-          "headline": "THREE LISTS.\nONE SONG.",
-          "body": "Daytona / track-specific playlist placements. Ranking metric and date will be labeled when verified.",
+          "headline": "ON THESE\nPLAYLISTS.",
+          "body": "Daytona / ranked by playlist followers, captured Oct 9, 2026. Largest among captured, Spotify-confirmed placements; not exhaustive. Followers are not song streams.",
           "rows": [
             [
-              "01 / Playlist",
-              "Awaiting Chartmetric"
+              "01 / Stank Face",
+              "43,273 followers"
             ],
             [
-              "02 / Playlist",
-              "Awaiting Chartmetric"
+              "02 / thirst trap😭😭",
+              "31,986 followers"
             ],
             [
-              "03 / Playlist",
-              "Awaiting Chartmetric"
+              "03 / Ballistic Bass",
+              "20,243 followers"
             ],
             [
               "Song streams from these lists",
@@ -1121,7 +1725,7 @@
           "rows": []
         }
       ],
-      "caption": "Lucy Bedroque: Daytona. Spotify metadata confirms both recording artists. A Rainy Day Music review names Daytona among its best tracks; that is one critic’s assessment. Spotify plays, read Oct 9, 2026: Daytona 6,451,009. Publishing ownership, master ownership and private deal terms are not established. Collection registrations are not ownership or income. Who brought you to daytona?",
+      "caption": "Lucy Bedroque: Daytona. Spotify metadata confirms both recording artists. A Rainy Day Music review names Daytona among its best tracks; that is one critic’s assessment. Spotify plays, read Oct 9, 2026: Daytona 6,451,009. Publishing ownership, master ownership and private deal terms are not established. Collection registrations are not ownership or income. Who brought you to daytona? Artist-level listener geography: Spotify, read Oct 9, 2026. Playlist ranking: Chartmetric follower snapshots, placements verified on Spotify; limited coverage, no song-stream attribution.",
       "cover_photo": {
         "file": "assets/photos/lucy-bedroque.jpg",
         "source_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O",
@@ -1134,26 +1738,156 @@
         "preview_note": "User requested portrait restoration in the public gallery preview; reuse permission remains unresolved."
       },
       "audience_geography": {
-        "source": "Chartmetric",
-        "scope": "artist-level Spotify listeners, not song-level",
+        "source": "Spotify artist About panel; Chartmetric cross-check",
+        "scope": "artist-level; not selected-song geography",
         "platform": "Spotify",
-        "observed_at": null,
-        "estimate_status": "unknown pending source capture",
+        "observed_at": "2026-10-09T08:52:03.677Z",
+        "metric": "monthly listeners by city",
+        "window": "trailing 28 days",
+        "estimate_status": "direct Spotify display counts",
+        "cities": [
+          {
+            "rank": 1,
+            "city": "Los Angeles",
+            "country_code": "US",
+            "monthly_listeners": 27602,
+            "estimated": false
+          },
+          {
+            "rank": 2,
+            "city": "New York City",
+            "country_code": "US",
+            "monthly_listeners": 25709,
+            "estimated": false
+          },
+          {
+            "rank": 3,
+            "city": "Chicago",
+            "country_code": "US",
+            "monthly_listeners": 20212,
+            "estimated": false
+          }
+        ],
         "countries": null,
-        "cities": null,
         "percentage_denominator": null,
-        "status": "awaiting Claude research"
+        "source_url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O",
+        "status": "captured Oct 9, 2026"
       },
       "playlist_analysis": {
         "track": "Daytona",
-        "scope": "exact recording, one song per ranking",
-        "source": "Chartmetric",
-        "ranking_metric": null,
-        "window": null,
-        "top_three": null,
+        "source": "Chartmetric, placement verified on Spotify",
+        "scope": "exact recording; one song per slide ranking",
+        "ranking_metric": "playlist followers captured Oct 9, 2026",
+        "window": "snapshot",
+        "top_three": [
+          {
+            "rank": 1,
+            "name": "Stank Face",
+            "name_at_chartmetric_capture": "Stank Face",
+            "curator": "patekdidthat",
+            "spotify_playlist_id": "5JjBVnnryYrjJuJkSFQDTA",
+            "url": "https://open.spotify.com/playlist/5JjBVnnryYrjJuJkSFQDTA",
+            "followers": 43273,
+            "followers_captured_at_utc": "2026-10-09T09:15:38.294Z",
+            "verified_at_utc": "2026-10-09T17:25:06Z",
+            "spotify_track_id_found": "1z8YIll8YL4H0HqWH6MRH8",
+            "recording_identity": "canonical",
+            "note": null,
+            "attributed_streams": null
+          },
+          {
+            "rank": 2,
+            "name": "thirst trap😭😭",
+            "name_at_chartmetric_capture": "thirst trap😭😭",
+            "curator": "sadaf",
+            "spotify_playlist_id": "7z35FZhHarXwcd5EAurKhO",
+            "url": "https://open.spotify.com/playlist/7z35FZhHarXwcd5EAurKhO",
+            "followers": 31986,
+            "followers_captured_at_utc": "2026-10-09T09:15:38.294Z",
+            "verified_at_utc": "2026-10-09T17:20:22Z",
+            "spotify_track_id_found": "1z8YIll8YL4H0HqWH6MRH8",
+            "recording_identity": "canonical",
+            "note": null,
+            "attributed_streams": null
+          },
+          {
+            "rank": 3,
+            "name": "Ballistic Bass",
+            "name_at_chartmetric_capture": "Ballistic Bass",
+            "curator": "kendallxcel",
+            "spotify_playlist_id": "3LZh4qtIjO27Z8K9NuOMu0",
+            "url": "https://open.spotify.com/playlist/3LZh4qtIjO27Z8K9NuOMu0",
+            "followers": 20243,
+            "followers_captured_at_utc": "2026-10-09T09:15:38.294Z",
+            "verified_at_utc": "2026-10-09T17:20:58Z",
+            "spotify_track_id_found": "1z8YIll8YL4H0HqWH6MRH8",
+            "recording_identity": "canonical",
+            "note": null,
+            "attributed_streams": null
+          }
+        ],
+        "recordings": [
+          {
+            "track_id": "UMT-04",
+            "title": "Daytona",
+            "spotify_track_id": "1z8YIll8YL4H0HqWH6MRH8",
+            "isrc": "USSM12600683",
+            "source_url": "https://app.chartmetric.com/track/161266919/playlists/spotify",
+            "top_three": [
+              {
+                "rank": 1,
+                "name": "Stank Face",
+                "name_at_chartmetric_capture": "Stank Face",
+                "curator": "patekdidthat",
+                "spotify_playlist_id": "5JjBVnnryYrjJuJkSFQDTA",
+                "url": "https://open.spotify.com/playlist/5JjBVnnryYrjJuJkSFQDTA",
+                "followers": 43273,
+                "followers_captured_at_utc": "2026-10-09T09:15:38.294Z",
+                "verified_at_utc": "2026-10-09T17:25:06Z",
+                "spotify_track_id_found": "1z8YIll8YL4H0HqWH6MRH8",
+                "recording_identity": "canonical",
+                "note": null,
+                "attributed_streams": null
+              },
+              {
+                "rank": 2,
+                "name": "thirst trap😭😭",
+                "name_at_chartmetric_capture": "thirst trap😭😭",
+                "curator": "sadaf",
+                "spotify_playlist_id": "7z35FZhHarXwcd5EAurKhO",
+                "url": "https://open.spotify.com/playlist/7z35FZhHarXwcd5EAurKhO",
+                "followers": 31986,
+                "followers_captured_at_utc": "2026-10-09T09:15:38.294Z",
+                "verified_at_utc": "2026-10-09T17:20:22Z",
+                "spotify_track_id_found": "1z8YIll8YL4H0HqWH6MRH8",
+                "recording_identity": "canonical",
+                "note": null,
+                "attributed_streams": null
+              },
+              {
+                "rank": 3,
+                "name": "Ballistic Bass",
+                "name_at_chartmetric_capture": "Ballistic Bass",
+                "curator": "kendallxcel",
+                "spotify_playlist_id": "3LZh4qtIjO27Z8K9NuOMu0",
+                "url": "https://open.spotify.com/playlist/3LZh4qtIjO27Z8K9NuOMu0",
+                "followers": 20243,
+                "followers_captured_at_utc": "2026-10-09T09:15:38.294Z",
+                "verified_at_utc": "2026-10-09T17:20:58Z",
+                "spotify_track_id_found": "1z8YIll8YL4H0HqWH6MRH8",
+                "recording_identity": "canonical",
+                "note": null,
+                "attributed_streams": null
+              }
+            ],
+            "metric": "Chartmetric playlist followers",
+            "ranking_scope": "Largest among captured, Spotify-confirmed eligible placements; not exhaustive",
+            "attributed_streams": null
+          }
+        ],
         "attributed_streams": null,
-        "status": "awaiting Claude research",
-        "rule": "Playlist followers, reach and estimated listeners do not establish streams attributed to this song."
+        "status": "verified placements; limited capture coverage",
+        "rule": "Followers measure playlist size, not song streams or fan interaction. Personalized playlists excluded; confirmed same-ID renames retained."
       },
       "research_track_ids": [
         "UMT-04"
@@ -1171,7 +1905,9 @@
       "angle": "Recording credits",
       "source_ids": [
         "daytona",
-        "UMT-04"
+        "UMT-04",
+        "geo_UM05",
+        "playlists_UMT-04"
       ],
       "recording_credits": [
         [
@@ -1218,7 +1954,7 @@
           }
         ]
       },
-      "status": "Evidence draft — plays and credits added; Chartmetric pending",
+      "status": "Evidence draft — plays, credits, cities and playlists sourced",
       "slides": [
         {
           "kind": "cover",
@@ -1308,43 +2044,43 @@
           "kind": "geography",
           "eyebrow": "05 / THE AUDIENCE",
           "headline": "WHERE THEY\nLISTEN.",
-          "body": "slayr / Spotify listener geography. Country counts or shares will come from a dated Chartmetric capture.",
+          "body": "slayr / artist-level Spotify monthly listeners by city. Read Oct 9, 2026; trailing 28 days. Not song-level geography.",
           "rows": [
             [
-              "Top country",
-              "Awaiting Chartmetric"
+              "New York City, US",
+              "35,627 listeners"
             ],
             [
-              "Second country",
-              "Awaiting Chartmetric"
+              "Los Angeles, US",
+              "34,136 listeners"
             ],
             [
-              "Third country",
-              "Awaiting Chartmetric"
+              "Chicago, US",
+              "33,048 listeners"
             ],
             [
-              "Observation / estimate status",
-              "Not captured"
+              "Coverage",
+              "Top 3 of 5 displayed cities"
             ]
           ]
         },
         {
           "kind": "playlists",
           "eyebrow": "06 / THE PLAYLISTS",
-          "headline": "THREE LISTS.\nONE SONG.",
-          "body": "Daytona / track-specific playlist placements. Ranking metric and date will be labeled when verified.",
+          "headline": "ON THESE\nPLAYLISTS.",
+          "body": "Daytona / ranked by playlist followers, captured Oct 9, 2026. Largest among captured, Spotify-confirmed placements; not exhaustive. Followers are not song streams.",
           "rows": [
             [
-              "01 / Playlist",
-              "Awaiting Chartmetric"
+              "01 / Stank Face",
+              "43,273 followers"
             ],
             [
-              "02 / Playlist",
-              "Awaiting Chartmetric"
+              "02 / thirst trap😭😭",
+              "31,986 followers"
             ],
             [
-              "03 / Playlist",
-              "Awaiting Chartmetric"
+              "03 / Ballistic Bass",
+              "20,243 followers"
             ],
             [
               "Song streams from these lists",
@@ -1360,7 +2096,7 @@
           "rows": []
         }
       ],
-      "caption": "slayr: Daytona. Daytona credits four writers and three producers. Those credits do not disclose ownership splits or payment terms. Spotify plays, read Oct 9, 2026: Daytona 6,451,009. Publishing ownership, master ownership and private deal terms are not established. Collection registrations are not ownership or income. Daytona or your other slayr pick?",
+      "caption": "slayr: Daytona. Daytona credits four writers and three producers. Those credits do not disclose ownership splits or payment terms. Spotify plays, read Oct 9, 2026: Daytona 6,451,009. Publishing ownership, master ownership and private deal terms are not established. Collection registrations are not ownership or income. Daytona or your other slayr pick? Artist-level listener geography: Spotify, read Oct 9, 2026. Playlist ranking: Chartmetric follower snapshots, placements verified on Spotify; limited coverage, no song-stream attribution.",
       "cover_photo": {
         "file": "assets/photos/Slayr_rollingloud_tristanstlws.jpg",
         "source_url": "https://commons.wikimedia.org/wiki/File%3ASlayr_rollingloud_tristanstlws.jpg",
@@ -1374,26 +2110,156 @@
         "preview_note": "User requested portrait restoration in the public gallery preview; reuse permission remains unresolved."
       },
       "audience_geography": {
-        "source": "Chartmetric",
-        "scope": "artist-level Spotify listeners, not song-level",
+        "source": "Spotify artist About panel; Chartmetric cross-check",
+        "scope": "artist-level; not selected-song geography",
         "platform": "Spotify",
-        "observed_at": null,
-        "estimate_status": "unknown pending source capture",
+        "observed_at": "2026-10-09T08:52:13.141Z",
+        "metric": "monthly listeners by city",
+        "window": "trailing 28 days",
+        "estimate_status": "direct Spotify display counts",
+        "cities": [
+          {
+            "rank": 1,
+            "city": "New York City",
+            "country_code": "US",
+            "monthly_listeners": 35627,
+            "estimated": false
+          },
+          {
+            "rank": 2,
+            "city": "Los Angeles",
+            "country_code": "US",
+            "monthly_listeners": 34136,
+            "estimated": false
+          },
+          {
+            "rank": 3,
+            "city": "Chicago",
+            "country_code": "US",
+            "monthly_listeners": 33048,
+            "estimated": false
+          }
+        ],
         "countries": null,
-        "cities": null,
         "percentage_denominator": null,
-        "status": "awaiting Claude research"
+        "source_url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA",
+        "status": "captured Oct 9, 2026"
       },
       "playlist_analysis": {
         "track": "Daytona",
-        "scope": "exact recording, one song per ranking",
-        "source": "Chartmetric",
-        "ranking_metric": null,
-        "window": null,
-        "top_three": null,
+        "source": "Chartmetric, placement verified on Spotify",
+        "scope": "exact recording; one song per slide ranking",
+        "ranking_metric": "playlist followers captured Oct 9, 2026",
+        "window": "snapshot",
+        "top_three": [
+          {
+            "rank": 1,
+            "name": "Stank Face",
+            "name_at_chartmetric_capture": "Stank Face",
+            "curator": "patekdidthat",
+            "spotify_playlist_id": "5JjBVnnryYrjJuJkSFQDTA",
+            "url": "https://open.spotify.com/playlist/5JjBVnnryYrjJuJkSFQDTA",
+            "followers": 43273,
+            "followers_captured_at_utc": "2026-10-09T09:15:38.294Z",
+            "verified_at_utc": "2026-10-09T17:25:06Z",
+            "spotify_track_id_found": "1z8YIll8YL4H0HqWH6MRH8",
+            "recording_identity": "canonical",
+            "note": null,
+            "attributed_streams": null
+          },
+          {
+            "rank": 2,
+            "name": "thirst trap😭😭",
+            "name_at_chartmetric_capture": "thirst trap😭😭",
+            "curator": "sadaf",
+            "spotify_playlist_id": "7z35FZhHarXwcd5EAurKhO",
+            "url": "https://open.spotify.com/playlist/7z35FZhHarXwcd5EAurKhO",
+            "followers": 31986,
+            "followers_captured_at_utc": "2026-10-09T09:15:38.294Z",
+            "verified_at_utc": "2026-10-09T17:20:22Z",
+            "spotify_track_id_found": "1z8YIll8YL4H0HqWH6MRH8",
+            "recording_identity": "canonical",
+            "note": null,
+            "attributed_streams": null
+          },
+          {
+            "rank": 3,
+            "name": "Ballistic Bass",
+            "name_at_chartmetric_capture": "Ballistic Bass",
+            "curator": "kendallxcel",
+            "spotify_playlist_id": "3LZh4qtIjO27Z8K9NuOMu0",
+            "url": "https://open.spotify.com/playlist/3LZh4qtIjO27Z8K9NuOMu0",
+            "followers": 20243,
+            "followers_captured_at_utc": "2026-10-09T09:15:38.294Z",
+            "verified_at_utc": "2026-10-09T17:20:58Z",
+            "spotify_track_id_found": "1z8YIll8YL4H0HqWH6MRH8",
+            "recording_identity": "canonical",
+            "note": null,
+            "attributed_streams": null
+          }
+        ],
+        "recordings": [
+          {
+            "track_id": "UMT-04",
+            "title": "Daytona",
+            "spotify_track_id": "1z8YIll8YL4H0HqWH6MRH8",
+            "isrc": "USSM12600683",
+            "source_url": "https://app.chartmetric.com/track/161266919/playlists/spotify",
+            "top_three": [
+              {
+                "rank": 1,
+                "name": "Stank Face",
+                "name_at_chartmetric_capture": "Stank Face",
+                "curator": "patekdidthat",
+                "spotify_playlist_id": "5JjBVnnryYrjJuJkSFQDTA",
+                "url": "https://open.spotify.com/playlist/5JjBVnnryYrjJuJkSFQDTA",
+                "followers": 43273,
+                "followers_captured_at_utc": "2026-10-09T09:15:38.294Z",
+                "verified_at_utc": "2026-10-09T17:25:06Z",
+                "spotify_track_id_found": "1z8YIll8YL4H0HqWH6MRH8",
+                "recording_identity": "canonical",
+                "note": null,
+                "attributed_streams": null
+              },
+              {
+                "rank": 2,
+                "name": "thirst trap😭😭",
+                "name_at_chartmetric_capture": "thirst trap😭😭",
+                "curator": "sadaf",
+                "spotify_playlist_id": "7z35FZhHarXwcd5EAurKhO",
+                "url": "https://open.spotify.com/playlist/7z35FZhHarXwcd5EAurKhO",
+                "followers": 31986,
+                "followers_captured_at_utc": "2026-10-09T09:15:38.294Z",
+                "verified_at_utc": "2026-10-09T17:20:22Z",
+                "spotify_track_id_found": "1z8YIll8YL4H0HqWH6MRH8",
+                "recording_identity": "canonical",
+                "note": null,
+                "attributed_streams": null
+              },
+              {
+                "rank": 3,
+                "name": "Ballistic Bass",
+                "name_at_chartmetric_capture": "Ballistic Bass",
+                "curator": "kendallxcel",
+                "spotify_playlist_id": "3LZh4qtIjO27Z8K9NuOMu0",
+                "url": "https://open.spotify.com/playlist/3LZh4qtIjO27Z8K9NuOMu0",
+                "followers": 20243,
+                "followers_captured_at_utc": "2026-10-09T09:15:38.294Z",
+                "verified_at_utc": "2026-10-09T17:20:58Z",
+                "spotify_track_id_found": "1z8YIll8YL4H0HqWH6MRH8",
+                "recording_identity": "canonical",
+                "note": null,
+                "attributed_streams": null
+              }
+            ],
+            "metric": "Chartmetric playlist followers",
+            "ranking_scope": "Largest among captured, Spotify-confirmed eligible placements; not exhaustive",
+            "attributed_streams": null
+          }
+        ],
         "attributed_streams": null,
-        "status": "awaiting Claude research",
-        "rule": "Playlist followers, reach and estimated listeners do not establish streams attributed to this song."
+        "status": "verified placements; limited capture coverage",
+        "rule": "Followers measure playlist size, not song streams or fan interaction. Personalized playlists excluded; confirmed same-ID renames retained."
       },
       "research_track_ids": [
         "UMT-04"
@@ -1414,7 +2280,10 @@
         "moon",
         "pretti",
         "UMT-05",
-        "UMT-06"
+        "UMT-06",
+        "geo_UM06",
+        "playlists_UMT-05",
+        "playlists_UMT-06"
       ],
       "recording_credits": [
         [
@@ -1479,7 +2348,7 @@
           }
         ]
       },
-      "status": "Evidence draft — plays and credits added; Chartmetric pending",
+      "status": "Evidence draft — plays, credits, cities and playlists sourced",
       "slides": [
         {
           "kind": "cover",
@@ -1593,43 +2462,43 @@
           "kind": "geography",
           "eyebrow": "05 / THE AUDIENCE",
           "headline": "WHERE THEY\nLISTEN.",
-          "body": "prettifun / Spotify listener geography. Country counts or shares will come from a dated Chartmetric capture.",
+          "body": "prettifun / artist-level Spotify monthly listeners by city. Read Oct 9, 2026; trailing 28 days. Not song-level geography.",
           "rows": [
             [
-              "Top country",
-              "Awaiting Chartmetric"
+              "Los Angeles, US",
+              "13,720 listeners"
             ],
             [
-              "Second country",
-              "Awaiting Chartmetric"
+              "New York City, US",
+              "13,225 listeners"
             ],
             [
-              "Third country",
-              "Awaiting Chartmetric"
+              "Chicago, US",
+              "11,614 listeners"
             ],
             [
-              "Observation / estimate status",
-              "Not captured"
+              "Coverage",
+              "Top 3 of 5 displayed cities"
             ]
           ]
         },
         {
           "kind": "playlists",
           "eyebrow": "06 / THE PLAYLISTS",
-          "headline": "THREE LISTS.\nONE SONG.",
-          "body": "Moon and the Stars / track-specific playlist placements. Ranking metric and date will be labeled when verified.",
+          "headline": "ON THESE\nPLAYLISTS.",
+          "body": "Moon and the Stars / ranked by playlist followers, captured Oct 9, 2026. Largest among captured, Spotify-confirmed placements; not exhaustive. Followers are not song streams.",
           "rows": [
             [
-              "01 / Playlist",
-              "Awaiting Chartmetric"
+              "01 / DripDrop",
+              "75,973 followers"
             ],
             [
-              "02 / Playlist",
-              "Awaiting Chartmetric"
+              "02 / SLAP Certified",
+              "66,017 followers"
             ],
             [
-              "03 / Playlist",
-              "Awaiting Chartmetric"
+              "03 / Stank Face",
+              "43,273 followers"
             ],
             [
               "Song streams from these lists",
@@ -1645,7 +2514,7 @@
           "rows": []
         }
       ],
-      "caption": "prettifun: Moon and the Stars, Pizza Time. prettifun is credited as artist, writer and producer on Moon and the Stars. Pizza Time credits him as producer; its release credits name Che as writer. Spotify plays, read Oct 9, 2026: Moon and the Stars 4,399,519; Pizza Time 20,560,415. Publishing ownership, master ownership and private deal terms are not established. Collection registrations are not ownership or income. Vocals or production: where did you start?",
+      "caption": "prettifun: Moon and the Stars, Pizza Time. prettifun is credited as artist, writer and producer on Moon and the Stars. Pizza Time credits him as producer; its release credits name Che as writer. Spotify plays, read Oct 9, 2026: Moon and the Stars 4,399,519; Pizza Time 20,560,415. Publishing ownership, master ownership and private deal terms are not established. Collection registrations are not ownership or income. Vocals or production: where did you start? Artist-level listener geography: Spotify, read Oct 9, 2026. Playlist ranking: Chartmetric follower snapshots, placements verified on Spotify; limited coverage, no song-stream attribution.",
       "cover_photo": {
         "file": "assets/photos/Prettifun.png",
         "source_url": "https://commons.wikimedia.org/wiki/File%3APrettifun.png",
@@ -1656,26 +2525,213 @@
         "changes": "Cropped, desaturated and darkened for the cover; CC BY-SA adaptation follows the same license where applicable."
       },
       "audience_geography": {
-        "source": "Chartmetric",
-        "scope": "artist-level Spotify listeners, not song-level",
+        "source": "Spotify artist About panel; Chartmetric cross-check",
+        "scope": "artist-level; not selected-song geography",
         "platform": "Spotify",
-        "observed_at": null,
-        "estimate_status": "unknown pending source capture",
+        "observed_at": "2026-10-09T08:52:35.477Z",
+        "metric": "monthly listeners by city",
+        "window": "trailing 28 days",
+        "estimate_status": "direct Spotify display counts",
+        "cities": [
+          {
+            "rank": 1,
+            "city": "Los Angeles",
+            "country_code": "US",
+            "monthly_listeners": 13720,
+            "estimated": false
+          },
+          {
+            "rank": 2,
+            "city": "New York City",
+            "country_code": "US",
+            "monthly_listeners": 13225,
+            "estimated": false
+          },
+          {
+            "rank": 3,
+            "city": "Chicago",
+            "country_code": "US",
+            "monthly_listeners": 11614,
+            "estimated": false
+          }
+        ],
         "countries": null,
-        "cities": null,
         "percentage_denominator": null,
-        "status": "awaiting Claude research"
+        "source_url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65",
+        "status": "captured Oct 9, 2026"
       },
       "playlist_analysis": {
         "track": "Moon and the Stars",
-        "scope": "exact recording, one song per ranking",
-        "source": "Chartmetric",
-        "ranking_metric": null,
-        "window": null,
-        "top_three": null,
+        "source": "Chartmetric, placement verified on Spotify",
+        "scope": "exact recording; one song per slide ranking",
+        "ranking_metric": "playlist followers captured Oct 9, 2026",
+        "window": "snapshot",
+        "top_three": [
+          {
+            "rank": 1,
+            "name": "DripDrop",
+            "name_at_chartmetric_capture": "DripDrop",
+            "curator": "Tommy Craze",
+            "spotify_playlist_id": "4MuEd7ylRz8O6u67ayDCzw",
+            "url": "https://open.spotify.com/playlist/4MuEd7ylRz8O6u67ayDCzw",
+            "followers": 75973,
+            "followers_captured_at_utc": "2026-10-09T09:15:47.058Z",
+            "verified_at_utc": "2026-10-09T17:20:58Z",
+            "spotify_track_id_found": "3dhBOVSwWub4L4DGqHx8Ia",
+            "recording_identity": "linked single release",
+            "note": null,
+            "attributed_streams": null
+          },
+          {
+            "rank": 2,
+            "name": "SLAP Certified",
+            "name_at_chartmetric_capture": "SLAP Certified",
+            "curator": "Tommy Craze",
+            "spotify_playlist_id": "3FMD6dNXkGwP2Teab7wN84",
+            "url": "https://open.spotify.com/playlist/3FMD6dNXkGwP2Teab7wN84",
+            "followers": 66017,
+            "followers_captured_at_utc": "2026-10-09T09:15:47.058Z",
+            "verified_at_utc": "2026-10-09T17:20:59Z",
+            "spotify_track_id_found": "3dhBOVSwWub4L4DGqHx8Ia",
+            "recording_identity": "linked single release",
+            "note": null,
+            "attributed_streams": null
+          },
+          {
+            "rank": 3,
+            "name": "Stank Face",
+            "name_at_chartmetric_capture": "Stank Face",
+            "curator": "patekdidthat",
+            "spotify_playlist_id": "5JjBVnnryYrjJuJkSFQDTA",
+            "url": "https://open.spotify.com/playlist/5JjBVnnryYrjJuJkSFQDTA",
+            "followers": 43273,
+            "followers_captured_at_utc": "2026-10-09T09:15:47.058Z",
+            "verified_at_utc": "2026-10-09T17:25:06Z",
+            "spotify_track_id_found": "3dhBOVSwWub4L4DGqHx8Ia",
+            "recording_identity": "linked single release",
+            "note": null,
+            "attributed_streams": null
+          }
+        ],
+        "recordings": [
+          {
+            "track_id": "UMT-05",
+            "title": "Moon and the Stars",
+            "spotify_track_id": "4aY54agzacXyMxb7jowbOv",
+            "isrc": "USC4R2666888",
+            "source_url": "https://app.chartmetric.com/track/166951190/playlists/spotify",
+            "top_three": [
+              {
+                "rank": 1,
+                "name": "DripDrop",
+                "name_at_chartmetric_capture": "DripDrop",
+                "curator": "Tommy Craze",
+                "spotify_playlist_id": "4MuEd7ylRz8O6u67ayDCzw",
+                "url": "https://open.spotify.com/playlist/4MuEd7ylRz8O6u67ayDCzw",
+                "followers": 75973,
+                "followers_captured_at_utc": "2026-10-09T09:15:47.058Z",
+                "verified_at_utc": "2026-10-09T17:20:58Z",
+                "spotify_track_id_found": "3dhBOVSwWub4L4DGqHx8Ia",
+                "recording_identity": "linked single release",
+                "note": null,
+                "attributed_streams": null
+              },
+              {
+                "rank": 2,
+                "name": "SLAP Certified",
+                "name_at_chartmetric_capture": "SLAP Certified",
+                "curator": "Tommy Craze",
+                "spotify_playlist_id": "3FMD6dNXkGwP2Teab7wN84",
+                "url": "https://open.spotify.com/playlist/3FMD6dNXkGwP2Teab7wN84",
+                "followers": 66017,
+                "followers_captured_at_utc": "2026-10-09T09:15:47.058Z",
+                "verified_at_utc": "2026-10-09T17:20:59Z",
+                "spotify_track_id_found": "3dhBOVSwWub4L4DGqHx8Ia",
+                "recording_identity": "linked single release",
+                "note": null,
+                "attributed_streams": null
+              },
+              {
+                "rank": 3,
+                "name": "Stank Face",
+                "name_at_chartmetric_capture": "Stank Face",
+                "curator": "patekdidthat",
+                "spotify_playlist_id": "5JjBVnnryYrjJuJkSFQDTA",
+                "url": "https://open.spotify.com/playlist/5JjBVnnryYrjJuJkSFQDTA",
+                "followers": 43273,
+                "followers_captured_at_utc": "2026-10-09T09:15:47.058Z",
+                "verified_at_utc": "2026-10-09T17:25:06Z",
+                "spotify_track_id_found": "3dhBOVSwWub4L4DGqHx8Ia",
+                "recording_identity": "linked single release",
+                "note": null,
+                "attributed_streams": null
+              }
+            ],
+            "metric": "Chartmetric playlist followers",
+            "ranking_scope": "Largest among captured, Spotify-confirmed eligible placements; not exhaustive",
+            "attributed_streams": null
+          },
+          {
+            "track_id": "UMT-06",
+            "title": "Pizza Time",
+            "spotify_track_id": "3pxg2vxImneIXH7Kt4raVM",
+            "isrc": "QZJ842401058",
+            "source_url": "https://app.chartmetric.com/track/121329840/playlists/spotify",
+            "top_three": [
+              {
+                "rank": 1,
+                "name": "Top 50: Underground",
+                "name_at_chartmetric_capture": "Top 50: Underground",
+                "curator": "Underground Playlists",
+                "spotify_playlist_id": "5uYXywn1xk1jgwBpaE4PBz",
+                "url": "https://open.spotify.com/playlist/5uYXywn1xk1jgwBpaE4PBz",
+                "followers": 50406,
+                "followers_captured_at_utc": "2026-10-09T09:14Z (approx.)",
+                "verified_at_utc": "2026-10-09T17:21:00Z",
+                "spotify_track_id_found": "3pxg2vxImneIXH7Kt4raVM",
+                "recording_identity": "canonical",
+                "note": null,
+                "attributed_streams": null
+              },
+              {
+                "rank": 2,
+                "name": "Cloud Rap ☁️",
+                "name_at_chartmetric_capture": "Cloud Rap ☁️",
+                "curator": "Accino",
+                "spotify_playlist_id": "0EPUHLxTUYDt9RwwgK8s3E",
+                "url": "https://open.spotify.com/playlist/0EPUHLxTUYDt9RwwgK8s3E",
+                "followers": 27934,
+                "followers_captured_at_utc": "2026-10-09T09:14Z (approx.)",
+                "verified_at_utc": "2026-10-09T17:21:07Z",
+                "spotify_track_id_found": "3pxg2vxImneIXH7Kt4raVM",
+                "recording_identity": "canonical",
+                "note": null,
+                "attributed_streams": null
+              },
+              {
+                "rank": 3,
+                "name": "Sunrise to Sunset",
+                "name_at_chartmetric_capture": "Sunrise to Sunset",
+                "curator": "WITHOUT WARNING NY",
+                "spotify_playlist_id": "0Au3b2NB5uz8Iwwx5sl6K5",
+                "url": "https://open.spotify.com/playlist/0Au3b2NB5uz8Iwwx5sl6K5",
+                "followers": 25264,
+                "followers_captured_at_utc": "2026-10-09T09:14Z (approx.)",
+                "verified_at_utc": "2026-10-09T17:24:36Z",
+                "spotify_track_id_found": "3pxg2vxImneIXH7Kt4raVM",
+                "recording_identity": "canonical",
+                "note": null,
+                "attributed_streams": null
+              }
+            ],
+            "metric": "Chartmetric playlist followers",
+            "ranking_scope": "Largest among captured, Spotify-confirmed eligible placements; not exhaustive",
+            "attributed_streams": null
+          }
+        ],
         "attributed_streams": null,
-        "status": "awaiting Claude research",
-        "rule": "Playlist followers, reach and estimated listeners do not establish streams attributed to this song."
+        "status": "verified placements; limited capture coverage",
+        "rule": "Followers measure playlist size, not song streams or fan interaction. Personalized playlists excluded; confirmed same-ID renames retained."
       },
       "research_track_ids": [
         "UMT-05",
@@ -1696,7 +2752,10 @@
       "source_ids": [
         "feng",
         "UMT-07",
-        "UMT-08"
+        "UMT-08",
+        "geo_UM07",
+        "playlists_UMT-07",
+        "playlists_UMT-08"
       ],
       "recording_credits": [
         [
@@ -1761,7 +2820,7 @@
           }
         ]
       },
-      "status": "Evidence draft — plays and credits added; Chartmetric pending",
+      "status": "Evidence draft — plays, credits, cities and playlists sourced",
       "slides": [
         {
           "kind": "cover",
@@ -1895,43 +2954,43 @@
           "kind": "geography",
           "eyebrow": "05 / THE AUDIENCE",
           "headline": "WHERE THEY\nLISTEN.",
-          "body": "Feng / Spotify listener geography. Country counts or shares will come from a dated Chartmetric capture.",
+          "body": "Feng / artist-level Spotify monthly listeners by city. Read Oct 9, 2026; trailing 28 days. Not song-level geography.",
           "rows": [
             [
-              "Top country",
-              "Awaiting Chartmetric"
+              "London, GB",
+              "51,428 listeners"
             ],
             [
-              "Second country",
-              "Awaiting Chartmetric"
+              "Los Angeles, US",
+              "37,407 listeners"
             ],
             [
-              "Third country",
-              "Awaiting Chartmetric"
+              "New York City, US",
+              "28,846 listeners"
             ],
             [
-              "Observation / estimate status",
-              "Not captured"
+              "Coverage",
+              "Top 3 of 5 displayed cities"
             ]
           ]
         },
         {
           "kind": "playlists",
           "eyebrow": "06 / THE PLAYLISTS",
-          "headline": "THREE LISTS.\nONE SONG.",
-          "body": "Princess / track-specific playlist placements. Ranking metric and date will be labeled when verified.",
+          "headline": "ON THESE\nPLAYLISTS.",
+          "body": "Princess / ranked by playlist followers, captured Oct 9, 2026. Largest among captured, Spotify-confirmed placements; not exhaustive. Followers are not song streams.",
           "rows": [
             [
-              "01 / Playlist",
-              "Awaiting Chartmetric"
+              "01 / seonghyeon’s playlist ⭐️ ﾟꔫ",
+              "32,141 followers"
             ],
             [
-              "02 / Playlist",
-              "Awaiting Chartmetric"
+              "02 / HARDEST underground rap",
+              "28,237 followers"
             ],
             [
-              "03 / Playlist",
-              "Awaiting Chartmetric"
+              "03 / Cloud Rap ☁️",
+              "27,965 followers"
             ],
             [
               "Song streams from these lists",
@@ -1947,7 +3006,7 @@
           "rows": []
         }
       ],
-      "caption": "Feng: Princess, XOXO. Princess and XOXO appear in a small fan recommendation thread. These are listening leads, not a measured fan ranking or verified ownership map. Spotify plays, read Oct 9, 2026: Princess 36,843,935; XOXO 35,782,510. Publishing ownership, master ownership and private deal terms are not established. Collection registrations are not ownership or income. Princess or xoxo?",
+      "caption": "Feng: Princess, XOXO. Princess and XOXO appear in a small fan recommendation thread. These are listening leads, not a measured fan ranking or verified ownership map. Spotify plays, read Oct 9, 2026: Princess 36,843,935; XOXO 35,782,510. Publishing ownership, master ownership and private deal terms are not established. Collection registrations are not ownership or income. Princess or xoxo? Artist-level listener geography: Spotify, read Oct 9, 2026. Playlist ranking: Chartmetric follower snapshots, placements verified on Spotify; limited coverage, no song-stream attribution.",
       "cover_photo": {
         "file": "assets/photos/Feng_in_Vancouver.png",
         "source_url": "https://commons.wikimedia.org/wiki/File%3AFeng_in_Vancouver.png",
@@ -1958,26 +3017,213 @@
         "changes": "Cropped, desaturated and darkened for the cover; CC BY-SA adaptation follows the same license where applicable."
       },
       "audience_geography": {
-        "source": "Chartmetric",
-        "scope": "artist-level Spotify listeners, not song-level",
+        "source": "Spotify artist About panel; Chartmetric cross-check",
+        "scope": "artist-level; not selected-song geography",
         "platform": "Spotify",
-        "observed_at": null,
-        "estimate_status": "unknown pending source capture",
+        "observed_at": "2026-10-09T08:52:44.930Z",
+        "metric": "monthly listeners by city",
+        "window": "trailing 28 days",
+        "estimate_status": "direct Spotify display counts",
+        "cities": [
+          {
+            "rank": 1,
+            "city": "London",
+            "country_code": "GB",
+            "monthly_listeners": 51428,
+            "estimated": false
+          },
+          {
+            "rank": 2,
+            "city": "Los Angeles",
+            "country_code": "US",
+            "monthly_listeners": 37407,
+            "estimated": false
+          },
+          {
+            "rank": 3,
+            "city": "New York City",
+            "country_code": "US",
+            "monthly_listeners": 28846,
+            "estimated": false
+          }
+        ],
         "countries": null,
-        "cities": null,
         "percentage_denominator": null,
-        "status": "awaiting Claude research"
+        "source_url": "https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh",
+        "status": "captured Oct 9, 2026"
       },
       "playlist_analysis": {
         "track": "Princess",
-        "scope": "exact recording, one song per ranking",
-        "source": "Chartmetric",
-        "ranking_metric": null,
-        "window": null,
-        "top_three": null,
+        "source": "Chartmetric, placement verified on Spotify",
+        "scope": "exact recording; one song per slide ranking",
+        "ranking_metric": "playlist followers captured Oct 9, 2026",
+        "window": "snapshot",
+        "top_three": [
+          {
+            "rank": 1,
+            "name": "seonghyeon’s playlist ⭐️ ﾟꔫ",
+            "name_at_chartmetric_capture": "seonghyeon’s playlist ⭐️ ﾟꔫ",
+            "curator": "eshfeed",
+            "spotify_playlist_id": "0TZpWcZipFNFPpDn7b8TU8",
+            "url": "https://open.spotify.com/playlist/0TZpWcZipFNFPpDn7b8TU8",
+            "followers": 32141,
+            "followers_captured_at_utc": "2026-10-09T17:11:50.259Z",
+            "verified_at_utc": "2026-10-09T17:21:08Z",
+            "spotify_track_id_found": "7hKUH1NXQXOt6bQjHhRZQg",
+            "recording_identity": "canonical",
+            "note": null,
+            "attributed_streams": null
+          },
+          {
+            "rank": 2,
+            "name": "HARDEST underground rap",
+            "name_at_chartmetric_capture": "HARDEST underground rap",
+            "curator": "alex7",
+            "spotify_playlist_id": "10ZljO3j7U2INKksBngNgi",
+            "url": "https://open.spotify.com/playlist/10ZljO3j7U2INKksBngNgi",
+            "followers": 28237,
+            "followers_captured_at_utc": "2026-10-09T17:11:50.259Z",
+            "verified_at_utc": "2026-10-09T17:21:09Z",
+            "spotify_track_id_found": "7hKUH1NXQXOt6bQjHhRZQg",
+            "recording_identity": "canonical",
+            "note": null,
+            "attributed_streams": null
+          },
+          {
+            "rank": 3,
+            "name": "Cloud Rap ☁️",
+            "name_at_chartmetric_capture": "Cloud Rap ☁️",
+            "curator": "Accino",
+            "spotify_playlist_id": "0EPUHLxTUYDt9RwwgK8s3E",
+            "url": "https://open.spotify.com/playlist/0EPUHLxTUYDt9RwwgK8s3E",
+            "followers": 27965,
+            "followers_captured_at_utc": "2026-10-09T17:11:50.259Z",
+            "verified_at_utc": "2026-10-09T17:21:07Z",
+            "spotify_track_id_found": "5IBgHRJfCoxwIlalQZsW08",
+            "recording_identity": "linked Spotify ID, same ISRC",
+            "note": null,
+            "attributed_streams": null
+          }
+        ],
+        "recordings": [
+          {
+            "track_id": "UMT-07",
+            "title": "Princess",
+            "spotify_track_id": "7hKUH1NXQXOt6bQjHhRZQg",
+            "isrc": "QZK6J2550885",
+            "source_url": "https://app.chartmetric.com/track/145586621/playlists/spotify",
+            "top_three": [
+              {
+                "rank": 1,
+                "name": "seonghyeon’s playlist ⭐️ ﾟꔫ",
+                "name_at_chartmetric_capture": "seonghyeon’s playlist ⭐️ ﾟꔫ",
+                "curator": "eshfeed",
+                "spotify_playlist_id": "0TZpWcZipFNFPpDn7b8TU8",
+                "url": "https://open.spotify.com/playlist/0TZpWcZipFNFPpDn7b8TU8",
+                "followers": 32141,
+                "followers_captured_at_utc": "2026-10-09T17:11:50.259Z",
+                "verified_at_utc": "2026-10-09T17:21:08Z",
+                "spotify_track_id_found": "7hKUH1NXQXOt6bQjHhRZQg",
+                "recording_identity": "canonical",
+                "note": null,
+                "attributed_streams": null
+              },
+              {
+                "rank": 2,
+                "name": "HARDEST underground rap",
+                "name_at_chartmetric_capture": "HARDEST underground rap",
+                "curator": "alex7",
+                "spotify_playlist_id": "10ZljO3j7U2INKksBngNgi",
+                "url": "https://open.spotify.com/playlist/10ZljO3j7U2INKksBngNgi",
+                "followers": 28237,
+                "followers_captured_at_utc": "2026-10-09T17:11:50.259Z",
+                "verified_at_utc": "2026-10-09T17:21:09Z",
+                "spotify_track_id_found": "7hKUH1NXQXOt6bQjHhRZQg",
+                "recording_identity": "canonical",
+                "note": null,
+                "attributed_streams": null
+              },
+              {
+                "rank": 3,
+                "name": "Cloud Rap ☁️",
+                "name_at_chartmetric_capture": "Cloud Rap ☁️",
+                "curator": "Accino",
+                "spotify_playlist_id": "0EPUHLxTUYDt9RwwgK8s3E",
+                "url": "https://open.spotify.com/playlist/0EPUHLxTUYDt9RwwgK8s3E",
+                "followers": 27965,
+                "followers_captured_at_utc": "2026-10-09T17:11:50.259Z",
+                "verified_at_utc": "2026-10-09T17:21:07Z",
+                "spotify_track_id_found": "5IBgHRJfCoxwIlalQZsW08",
+                "recording_identity": "linked Spotify ID, same ISRC",
+                "note": null,
+                "attributed_streams": null
+              }
+            ],
+            "metric": "Chartmetric playlist followers",
+            "ranking_scope": "Largest among captured, Spotify-confirmed eligible placements; not exhaustive",
+            "attributed_streams": null
+          },
+          {
+            "track_id": "UMT-08",
+            "title": "XOXO",
+            "spotify_track_id": "0LIEtliIARSvMc5niYy0OX",
+            "isrc": "QZTB42552978",
+            "source_url": "https://app.chartmetric.com/track/148881855/playlists/spotify",
+            "top_three": [
+              {
+                "rank": 1,
+                "name": "Gaming Music 2026 🎮 Phonk / Electronic /Future House / Future Bass / Rap & More",
+                "name_at_chartmetric_capture": "Gaming Music 2026 🎮 Phonk / Electronic /Future House / Future Bass ...",
+                "curator": "Glitch",
+                "spotify_playlist_id": "4KJGeJqskaIHlCyrbF0aC5",
+                "url": "https://open.spotify.com/playlist/4KJGeJqskaIHlCyrbF0aC5",
+                "followers": 149953,
+                "followers_captured_at_utc": "2026-10-09T09:21:19.024Z",
+                "verified_at_utc": "2026-10-09T17:25:35Z",
+                "spotify_track_id_found": "2XUeYvnBGmQ24sWQ45Mupk",
+                "recording_identity": "linked single release",
+                "note": "Spotify shows 'added 2026-10-03'; Chartmetric shows Feb 12, 2026 (position 99 matches). A same-named playlist by HORIZON RCRDS (55 followers) was also scanned and does not hold the recording.",
+                "attributed_streams": null
+              },
+              {
+                "rank": 2,
+                "name": "The Lyrical Lemonade Summer Smash 2026",
+                "name_at_chartmetric_capture": "The Lyrical Lemonade Summer Smash 2026",
+                "curator": "Lyrical Lemonade",
+                "spotify_playlist_id": "5UuPeWDR2I8a8pORvW9vmr",
+                "url": "https://open.spotify.com/playlist/5UuPeWDR2I8a8pORvW9vmr",
+                "followers": 65966,
+                "followers_captured_at_utc": "2026-10-09T09:21:59.548Z",
+                "verified_at_utc": "2026-10-09T17:20:13Z",
+                "spotify_track_id_found": "2XUeYvnBGmQ24sWQ45Mupk",
+                "recording_identity": "linked single release",
+                "note": null,
+                "attributed_streams": null
+              },
+              {
+                "rank": 3,
+                "name": "SKIING VIBES 🎿",
+                "name_at_chartmetric_capture": "SKIING VIBES 🎿",
+                "curator": "max-hilly",
+                "spotify_playlist_id": "6FOJqFdDtARGfAETrSYWKl",
+                "url": "https://open.spotify.com/playlist/6FOJqFdDtARGfAETrSYWKl",
+                "followers": 52752,
+                "followers_captured_at_utc": "2026-10-09T09:21:59.548Z",
+                "verified_at_utc": "2026-10-09T17:25:37Z",
+                "spotify_track_id_found": "4lA562F7nT6LMkytf2l479",
+                "recording_identity": "linked Spotify ID not previously listed, same ISRC",
+                "note": null,
+                "attributed_streams": null
+              }
+            ],
+            "metric": "Chartmetric playlist followers",
+            "ranking_scope": "Largest among captured, Spotify-confirmed eligible placements; not exhaustive",
+            "attributed_streams": null
+          }
+        ],
         "attributed_streams": null,
-        "status": "awaiting Claude research",
-        "rule": "Playlist followers, reach and estimated listeners do not establish streams attributed to this song."
+        "status": "verified placements; limited capture coverage",
+        "rule": "Followers measure playlist size, not song streams or fan interaction. Personalized playlists excluded; confirmed same-ID renames retained."
       },
       "research_track_ids": [
         "UMT-07",
@@ -1998,7 +3244,10 @@
       "source_ids": [
         "sosa",
         "UMT-09",
-        "UMT-10"
+        "UMT-10",
+        "geo_UM08",
+        "playlists_UMT-09",
+        "playlists_UMT-10"
       ],
       "recording_credits": [
         [
@@ -2063,7 +3312,7 @@
           }
         ]
       },
-      "status": "Evidence draft — plays and credits added; Chartmetric pending",
+      "status": "Evidence draft — plays, credits, cities and playlists sourced",
       "slides": [
         {
           "kind": "cover",
@@ -2189,43 +3438,43 @@
           "kind": "geography",
           "eyebrow": "05 / THE AUDIENCE",
           "headline": "WHERE THEY\nLISTEN.",
-          "body": "Babyxsosa / Spotify listener geography. Country counts or shares will come from a dated Chartmetric capture.",
+          "body": "Babyxsosa / artist-level Spotify monthly listeners by city. Read Oct 9, 2026; trailing 28 days. Not song-level geography.",
           "rows": [
             [
-              "Top country",
-              "Awaiting Chartmetric"
+              "New York City, US",
+              "10,501 listeners"
             ],
             [
-              "Second country",
-              "Awaiting Chartmetric"
+              "Los Angeles, US",
+              "10,385 listeners"
             ],
             [
-              "Third country",
-              "Awaiting Chartmetric"
+              "Chicago, US",
+              "9,387 listeners"
             ],
             [
-              "Observation / estimate status",
-              "Not captured"
+              "Coverage",
+              "Top 3 of 5 displayed cities"
             ]
           ]
         },
         {
           "kind": "playlists",
           "eyebrow": "06 / THE PLAYLISTS",
-          "headline": "THREE LISTS.\nONE SONG.",
-          "body": "Everywhereigo / track-specific playlist placements. Ranking metric and date will be labeled when verified.",
+          "headline": "ON THESE\nPLAYLISTS.",
+          "body": "Everywhereigo / ranked by playlist followers, captured Oct 9, 2026. Largest among captured, Spotify-confirmed placements; not exhaustive. Followers are not song streams.",
           "rows": [
             [
-              "01 / Playlist",
-              "Awaiting Chartmetric"
+              "01 / nostalgic songs that go crazy🔥🔥",
+              "502,383 followers"
             ],
             [
-              "02 / Playlist",
-              "Awaiting Chartmetric"
+              "02 / tik tok songs trending in 2026",
+              "321,141 followers"
             ],
             [
-              "03 / Playlist",
-              "Awaiting Chartmetric"
+              "03 / Loud super bass songs 😝🩷.",
+              "108,633 followers"
             ],
             [
               "Song streams from these lists",
@@ -2241,7 +3490,7 @@
           "rows": []
         }
       ],
-      "caption": "Babyxsosa: Everywhereigo, DRAMA BABY / MALIBU. The FADER identifies these songs among Babyxsosa’s biggest hits. Its review does not establish track revenue, writer shares or master ownership. Spotify plays, read Oct 9, 2026: Everywhereigo 95,657,103; DRAMA BABY / MALIBU 15,245,749. Publishing ownership, master ownership and private deal terms are not established. Collection registrations are not ownership or income. Which song put you on?",
+      "caption": "Babyxsosa: Everywhereigo, DRAMA BABY / MALIBU. The FADER identifies these songs among Babyxsosa’s biggest hits. Its review does not establish track revenue, writer shares or master ownership. Spotify plays, read Oct 9, 2026: Everywhereigo 95,657,103; DRAMA BABY / MALIBU 15,245,749. Publishing ownership, master ownership and private deal terms are not established. Collection registrations are not ownership or income. Which song put you on? Artist-level listener geography: Spotify, read Oct 9, 2026. Playlist ranking: Chartmetric follower snapshots, placements verified on Spotify; limited coverage, no song-stream attribution.",
       "cover_photo": {
         "file": "assets/photos/BabyXSosa_2025.jpg",
         "source_url": "https://commons.wikimedia.org/wiki/File%3ABabyXSosa_2025.jpg",
@@ -2252,26 +3501,213 @@
         "changes": "Cropped, desaturated and darkened for the cover; CC BY-SA adaptation follows the same license where applicable."
       },
       "audience_geography": {
-        "source": "Chartmetric",
-        "scope": "artist-level Spotify listeners, not song-level",
+        "source": "Spotify artist About panel; Chartmetric cross-check",
+        "scope": "artist-level; not selected-song geography",
         "platform": "Spotify",
-        "observed_at": null,
-        "estimate_status": "unknown pending source capture",
+        "observed_at": "2026-10-09T08:52:54.490Z",
+        "metric": "monthly listeners by city",
+        "window": "trailing 28 days",
+        "estimate_status": "direct Spotify display counts",
+        "cities": [
+          {
+            "rank": 1,
+            "city": "New York City",
+            "country_code": "US",
+            "monthly_listeners": 10501,
+            "estimated": false
+          },
+          {
+            "rank": 2,
+            "city": "Los Angeles",
+            "country_code": "US",
+            "monthly_listeners": 10385,
+            "estimated": false
+          },
+          {
+            "rank": 3,
+            "city": "Chicago",
+            "country_code": "US",
+            "monthly_listeners": 9387,
+            "estimated": false
+          }
+        ],
         "countries": null,
-        "cities": null,
         "percentage_denominator": null,
-        "status": "awaiting Claude research"
+        "source_url": "https://open.spotify.com/artist/0z6XSqpMBqmhaRVWduV9HJ",
+        "status": "captured Oct 9, 2026"
       },
       "playlist_analysis": {
         "track": "Everywhereigo",
-        "scope": "exact recording, one song per ranking",
-        "source": "Chartmetric",
-        "ranking_metric": null,
-        "window": null,
-        "top_three": null,
+        "source": "Chartmetric, placement verified on Spotify",
+        "scope": "exact recording; one song per slide ranking",
+        "ranking_metric": "playlist followers captured Oct 9, 2026",
+        "window": "snapshot",
+        "top_three": [
+          {
+            "rank": 1,
+            "name": "nostalgic songs that go crazy🔥🔥",
+            "name_at_chartmetric_capture": "nostalgic songs that go crazy🔥🔥",
+            "curator": "cel1ne.fr",
+            "spotify_playlist_id": "7GRnA1buU09xvdDoSJlyEw",
+            "url": "https://open.spotify.com/playlist/7GRnA1buU09xvdDoSJlyEw",
+            "followers": 502383,
+            "followers_captured_at_utc": "2026-10-09T17:12:29.366Z",
+            "verified_at_utc": "2026-10-09T17:23:23Z",
+            "spotify_track_id_found": "3DICBZOMaEWbCxwUfPGcE5",
+            "recording_identity": "linked Spotify ID, same ISRC",
+            "note": "Curator display name on Spotify is 'cel1ne.fr'; Chartmetric shows 'ufw.celineywieney'. Matched on title, position 186 of 222, add date Aug 5, 2023 and follower count.",
+            "attributed_streams": null
+          },
+          {
+            "rank": 2,
+            "name": "tik tok songs trending in 2026",
+            "name_at_chartmetric_capture": "tik tok songs trending in 2026",
+            "curator": "knivgaffel",
+            "spotify_playlist_id": "6RXgHyqUiEbSmX7NQZ05yQ",
+            "url": "https://open.spotify.com/playlist/6RXgHyqUiEbSmX7NQZ05yQ",
+            "followers": 321141,
+            "followers_captured_at_utc": "2026-10-09T17:12:29.366Z",
+            "verified_at_utc": "2026-10-09T17:23:25Z",
+            "spotify_track_id_found": "3DICBZOMaEWbCxwUfPGcE5",
+            "recording_identity": "linked Spotify ID, same ISRC",
+            "note": null,
+            "attributed_streams": null
+          },
+          {
+            "rank": 3,
+            "name": "Loud super bass songs 😝🩷.",
+            "name_at_chartmetric_capture": "Loud super bass songs 😝🩷.",
+            "curator": "💞ملاك💞",
+            "spotify_playlist_id": "6rOlKYcxF9gUSt5liEyt6c",
+            "url": "https://open.spotify.com/playlist/6rOlKYcxF9gUSt5liEyt6c",
+            "followers": 108633,
+            "followers_captured_at_utc": "2026-10-09T17:12:29.366Z",
+            "verified_at_utc": "2026-10-09T17:23:31Z",
+            "spotify_track_id_found": "3DICBZOMaEWbCxwUfPGcE5",
+            "recording_identity": "linked Spotify ID, same ISRC",
+            "note": null,
+            "attributed_streams": null
+          }
+        ],
+        "recordings": [
+          {
+            "track_id": "UMT-09",
+            "title": "Everywhereigo",
+            "spotify_track_id": "6oiHTXuIctrIwtHe5cgXv6",
+            "isrc": "QZHNC1979731",
+            "source_url": "https://app.chartmetric.com/track/28177213/playlists/spotify",
+            "top_three": [
+              {
+                "rank": 1,
+                "name": "nostalgic songs that go crazy🔥🔥",
+                "name_at_chartmetric_capture": "nostalgic songs that go crazy🔥🔥",
+                "curator": "cel1ne.fr",
+                "spotify_playlist_id": "7GRnA1buU09xvdDoSJlyEw",
+                "url": "https://open.spotify.com/playlist/7GRnA1buU09xvdDoSJlyEw",
+                "followers": 502383,
+                "followers_captured_at_utc": "2026-10-09T17:12:29.366Z",
+                "verified_at_utc": "2026-10-09T17:23:23Z",
+                "spotify_track_id_found": "3DICBZOMaEWbCxwUfPGcE5",
+                "recording_identity": "linked Spotify ID, same ISRC",
+                "note": "Curator display name on Spotify is 'cel1ne.fr'; Chartmetric shows 'ufw.celineywieney'. Matched on title, position 186 of 222, add date Aug 5, 2023 and follower count.",
+                "attributed_streams": null
+              },
+              {
+                "rank": 2,
+                "name": "tik tok songs trending in 2026",
+                "name_at_chartmetric_capture": "tik tok songs trending in 2026",
+                "curator": "knivgaffel",
+                "spotify_playlist_id": "6RXgHyqUiEbSmX7NQZ05yQ",
+                "url": "https://open.spotify.com/playlist/6RXgHyqUiEbSmX7NQZ05yQ",
+                "followers": 321141,
+                "followers_captured_at_utc": "2026-10-09T17:12:29.366Z",
+                "verified_at_utc": "2026-10-09T17:23:25Z",
+                "spotify_track_id_found": "3DICBZOMaEWbCxwUfPGcE5",
+                "recording_identity": "linked Spotify ID, same ISRC",
+                "note": null,
+                "attributed_streams": null
+              },
+              {
+                "rank": 3,
+                "name": "Loud super bass songs 😝🩷.",
+                "name_at_chartmetric_capture": "Loud super bass songs 😝🩷.",
+                "curator": "💞ملاك💞",
+                "spotify_playlist_id": "6rOlKYcxF9gUSt5liEyt6c",
+                "url": "https://open.spotify.com/playlist/6rOlKYcxF9gUSt5liEyt6c",
+                "followers": 108633,
+                "followers_captured_at_utc": "2026-10-09T17:12:29.366Z",
+                "verified_at_utc": "2026-10-09T17:23:31Z",
+                "spotify_track_id_found": "3DICBZOMaEWbCxwUfPGcE5",
+                "recording_identity": "linked Spotify ID, same ISRC",
+                "note": null,
+                "attributed_streams": null
+              }
+            ],
+            "metric": "Chartmetric playlist followers",
+            "ranking_scope": "Largest among captured, Spotify-confirmed eligible placements; not exhaustive",
+            "attributed_streams": null
+          },
+          {
+            "track_id": "UMT-10",
+            "title": "DRAMA BABY / MALIBU",
+            "spotify_track_id": "0JlIREROiyPWzUNhlIpOns",
+            "isrc": "QZNWU2103797",
+            "source_url": "https://app.chartmetric.com/track/64207486/playlists/spotify",
+            "top_three": [
+              {
+                "rank": 1,
+                "name": "POV: you’re in a edit",
+                "name_at_chartmetric_capture": "POV: you’re in a edit",
+                "curator": "𐙚˙⋆.˚ ᡣ𐭩",
+                "spotify_playlist_id": "2vFLsbXwDr6Gj69Zjod3Y9",
+                "url": "https://open.spotify.com/playlist/2vFLsbXwDr6Gj69Zjod3Y9",
+                "followers": 87790,
+                "followers_captured_at_utc": "2026-10-09T09:27:01.049Z",
+                "verified_at_utc": "2026-10-09T17:23:47Z",
+                "spotify_track_id_found": "6sImfdtpn3KXl0DhSeA27H",
+                "recording_identity": "linked Spotify ID, same ISRC",
+                "note": null,
+                "attributed_streams": null
+              },
+              {
+                "rank": 2,
+                "name": "thirst trap😭😭",
+                "name_at_chartmetric_capture": "thirst trap😭😭",
+                "curator": "sadaf",
+                "spotify_playlist_id": "7z35FZhHarXwcd5EAurKhO",
+                "url": "https://open.spotify.com/playlist/7z35FZhHarXwcd5EAurKhO",
+                "followers": 31986,
+                "followers_captured_at_utc": "2026-10-09T09:27:01.049Z",
+                "verified_at_utc": "2026-10-09T17:20:22Z",
+                "spotify_track_id_found": "6sImfdtpn3KXl0DhSeA27H",
+                "recording_identity": "linked Spotify ID, same ISRC",
+                "note": null,
+                "attributed_streams": null
+              },
+              {
+                "rank": 3,
+                "name": "Those Gojo edits",
+                "name_at_chartmetric_capture": "Those Gojo edits",
+                "curator": "keila",
+                "spotify_playlist_id": "1RbT3jWl13RBKvZDbdlsmA",
+                "url": "https://open.spotify.com/playlist/1RbT3jWl13RBKvZDbdlsmA",
+                "followers": 27486,
+                "followers_captured_at_utc": "2026-10-09T09:27:01.049Z",
+                "verified_at_utc": "2026-10-09T17:25:39Z",
+                "spotify_track_id_found": "6sImfdtpn3KXl0DhSeA27H",
+                "recording_identity": "linked Spotify ID, same ISRC",
+                "note": null,
+                "attributed_streams": null
+              }
+            ],
+            "metric": "Chartmetric playlist followers",
+            "ranking_scope": "Largest among captured, Spotify-confirmed eligible placements; not exhaustive",
+            "attributed_streams": null
+          }
+        ],
         "attributed_streams": null,
-        "status": "awaiting Claude research",
-        "rule": "Playlist followers, reach and estimated listeners do not establish streams attributed to this song."
+        "status": "verified placements; limited capture coverage",
+        "rule": "Followers measure playlist size, not song streams or fan interaction. Personalized playlists excluded; confirmed same-ID renames retained."
       },
       "research_track_ids": [
         "UMT-09",
@@ -2284,5 +3720,5 @@
     "Wednesday": "UM05",
     "Friday": "UM06"
   },
-  "handoff": "Ten recordings integrated. Chartmetric geography and playlists still pending."
+  "handoff": "Ten recording datasets and eight artist geography datasets integrated. Refresh dated metrics before posting. Ownership and payouts remain unknown."
 }

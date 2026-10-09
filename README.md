@@ -1,6 +1,6 @@
 # Underground Metrics gallery
 
-Public review preview of the first-week gallery. Dated Spotify plays and release credits are integrated; geography and playlist inputs are pending Chartmetric. No song earnings, ownership splits or playlist-attributed views have been invented.
+Public review preview of the first-week gallery. Dated Spotify plays and release credits are integrated; Spotify listener cities and verified playlist placements are integrated. No song earnings, ownership splits or playlist-attributed views have been invented.
 
 Sources and photo licenses are shown inside each post and in assets/photo_manifest.json. All eight portrait covers are displayed. Che, Lucy Bedroque, Nettspend and slayr were restored at the user’s request for this public preview; their reuse provenance remains unresolved and is labelled. Commons photo adaptations retain their original license; the slayr adapted cover is CC BY-SA 4.0. Creator attribution, source and modification descriptions are included with each post.
 
